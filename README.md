@@ -1,4 +1,5 @@
-### Hi 👋, I am Biswasindhu Mandal<br/>
+
+# Hi 👋, I am Biswasindhu Mandal<br/>
 
 ### Connect with me:<br/>
 
@@ -23,9 +24,21 @@
 
 <img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  />
 
-<img  align="left"  alt="JavaScript"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  />
+<img  align="left"  alt="JavaScript"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img  align="left"  alt="JavaScript"  width="35px"  
+     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<br/>
 
+## :trophy: My Github Stats:
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=artbindu&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=artbindu&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight" />
+</a>
+</div>
 
 <!--
 **artbindu/artbindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
