@@ -1,57 +1,60 @@
 
-# Hi 👋, I am Biswasindhu Mandal<br/>
+# Hi 👋, I am Biswasindhu Mandal
 
-### Connect with me:<br/>
+## Connect with me:
 
-<a  href="https://bitbucket.org/artbindu/">
-<img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg"/>
-</a>
-<a  href="https://www.linkedin.com/in/biswasindhu-mandal-19930310/">
-<img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a  href="https://www.hackerrank.com/artbindu">
-<img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"/>
-</a>
-<a  href="https://www.hackerearth.com/@artbindu">
-<img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg"/>
-</a>
-<a  href="https://www.quora.com/profile/Art-Bindu-1">
-<img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg"/>
-</a>
+<div>
+  <a  href="https://bitbucket.org/artbindu/">
+    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg"/>
+  </a><a  href="https://www.linkedin.com/in/biswasindhu-mandal-19930310/">
+    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  </a><a  href="https://www.hackerrank.com/artbindu">
+    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"/>
+  </a><a  href="https://www.hackerearth.com/@artbindu">
+    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg"/>
+  </a><a  href="https://www.quora.com/profile/Art-Bindu-1">
+  <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg"/>
+  </a><a  href="https://medium.com/@artbindu">
+    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg"/>
+  </a>
+</div>
 <br/>
 
-### Languages and Tools:<br/>
-<a href="https://code.visualstudio.com/docs">
-<img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  /></a>
+## Languages and Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img  align="left"  alt="JavaScript"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<div>
+  <a href="https://code.visualstudio.com/docs">
+    <img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  /></a>
 
-<a href="https://www.python.org/doc/">
-<img  align="left"  alt="Python"  width="35px"  
-     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-     
-<a href="https://www.typescriptlang.org/">
-     <img align="left" alt="Typescript" width="35px" 
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></a>
-          
-<a href="https://nodejs.org/en/docs/">
-     <img align="left" alt="NodeJs" width="35px" 
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></a>
-          
-<a href="https://www.learn-c.org/">
-     <img align="left" alt="C" width="35px" 
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img  align="left"  alt="JavaScript"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+
+  <a href="https://www.python.org/doc/">
+    <img  align="left"  alt="Python"  width="35px"  
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+      
+  <a href="https://www.typescriptlang.org/">
+    <img align="left" alt="Typescript" width="35px" 
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></a>
+            
+  <a href="https://nodejs.org/en/docs/">
+    <img align="left" alt="NodeJs" width="35px" 
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></a>
+            
+  <a href="https://www.learn-c.org/">
+    <img align="left" alt="C" width="35px" 
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></a>
+</div>
 <br/>
 
 ## :trophy: My Github Stats:
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=artbindu&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=artbindu&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight" />
-</a>
+  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=artbindu&count_private=true&show_icons=true&theme=tokyonight">
+    <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=artbindu&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight">
+    <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight" />
+  </a>
 </div>
 
 <!--
