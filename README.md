@@ -6,7 +6,7 @@
 <div>
   <a  href="https://bitbucket.org/artbindu/">
     <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg"/>
-  </a><a  href="https://https://www.linkedin.com/in/artbindu/">
+  </a><a  href="https://www.linkedin.com/in/artbindu/">
     <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a><a  href="https://www.hackerrank.com/artbindu">
     <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"/>
