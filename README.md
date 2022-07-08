@@ -61,6 +61,7 @@
     <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight" />
   </a>
 </div>
+<a href="https://raw.githubusercontent.com/artbindu/artbindu123.github.io/main/index.html">Resume Details </a>
 
 <!--
 **artbindu/artbindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
