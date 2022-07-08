@@ -1,4 +1,7 @@
 
+![animated](https://avatars.githubusercontent.com/u/44528087?s=400&u=9e51f1d96969229ae1a25f0d1680b06e5ad69e94&v=4)
+
+
 # Hi 👋, I am Biswasindhu Mandal
 
 ## Connect with me:
