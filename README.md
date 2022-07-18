@@ -7,21 +7,22 @@
 ## Connect with me:
 
 <div>
-  <a  href="https://bitbucket.org/artbindu/">
-    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg"/>
-  </a><a  href="https://www.linkedin.com/in/artbindu/">
+  <a  href="https://www.linkedin.com/in/artbindu/">
     <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  </a><a  href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
+    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg"/>
+  </a><a  href="https://medium.com/@artbindu">
+    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg"/>
   </a><a  href="https://www.hackerrank.com/artbindu">
     <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"/>
   </a><a  href="https://www.hackerearth.com/@artbindu">
     <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg"/>
   </a><a  href="https://www.quora.com/profile/Art-Bindu-1">
   <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg"/>
-  </a><a  href="https://medium.com/@artbindu">
-    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg"/>
-  </a><a  href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg"/>
+  </a><a  href="https://bitbucket.org/artbindu/">
+    <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg"/>
   </a>
+  
 </div>
 <br/>
 
