@@ -62,7 +62,7 @@
     <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight" />
   </a>
 </div>
-<a href="artbindu.github.io/digital-cv/>Resume Details">Resume Details</a>
+<a href="artbindu.github.io/digital-cv/index.html>Resume Details">Resume Details</a>
 
 
 <!--
