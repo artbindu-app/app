@@ -13,7 +13,7 @@
 
 
 <div>
-  <a  href="https://www.linkedin.com/in/artbindu/">
+  <a  href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
     <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a><a  href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
     <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg"/>
