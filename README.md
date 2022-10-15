@@ -1,15 +1,24 @@
 
+<!-- GitHub Profile Picture
 ![animated](https://avatars.githubusercontent.com/u/44528087?s=400&u=9e51f1d96969229ae1a25f0d1680b06e5ad69e94&v=4)
+-->
 
 
-# Hi 👋, I am Biswasindhu Mandal
+# 👋, I am Biswasindhu Mandal
 
 ## Connect with me:
+[![Biswasindhu Mandal-LinkedIn][3]][2]
+
+  [2]: https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta
+  [3]: https://i.stack.imgur.com/D5Hwq.png
+  
+<!-- Linked In Badges
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="artbindu" data-version="v1">
   <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
     Biswasindhu Mandal
   </a>
 </div>
+-->
 
 
 <div>
@@ -28,7 +37,6 @@
   </a><a  href="https://bitbucket.org/artbindu/">
     <img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg"/>
   </a>
-  
 </div>
 <br/>
 
