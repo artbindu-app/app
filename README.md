@@ -79,7 +79,14 @@
 <a href="https://artbindu.github.io/digital-cv/index.md">Resume Details</a>
 
 
-<!--
+<br></hr>
+# My Website:
+
+- [x] [Round Off Decimal Number](https://artbindu.github.io/roundoffdecimal.github.io/)
+- [x] [Essential Command](https://artbindu.github.io/EssentialCmd.github.io/src/wincmd.html)
+
+
+<!-- #Ignore code
 <a href="https://raw.githubusercontent.com/artbindu/artbindu123.github.io/main/index.html">Resume Details </a>
 
 **artbindu/artbindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
