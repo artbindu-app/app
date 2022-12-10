@@ -23,7 +23,7 @@
       </a>&nbsp;
       <a href="https://medium.com/@artbindu">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/medium/66cdaa"/>
+              src="https://cdn.simpleicons.org/medium/green"/>
       </a>&nbsp;
       <a href="https://www.hackerrank.com/artbindu">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
@@ -33,7 +33,7 @@
           <img align="left" width="24px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/hackerearth/lblue"/>
       </a>&nbsp;
-      <a href="https://www.quora.com/profile/Art-Bindu-1">
+      <a href="https://github.com/artbindu">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/github/f34f29"/>
       </a>&nbsp;
@@ -78,11 +78,11 @@
           <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
             src="https://cdn.simpleicons.org/c">
       </a>
-      <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
+      <a href="https://devdocs.io/cpp/">
           <img align="left" alt="C++" width="35px" style="background-color:white; padding:5px;"
             src="https://cdn.simpleicons.org/c++">
       </a>
-      <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
+      <a href="https://docs.oracle.com/javase/tutorial/java/index.html">
           <img align="left" alt="Java" width="35px" style="background-color:white; padding:5px;"
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
       </a>
