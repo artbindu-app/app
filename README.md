@@ -68,11 +68,16 @@
 <table>
     <caption>Alien football stars</caption>
     <tr>
+        <th scope="col">Git Status</th>
         <th scope="col">Experience</th>
         <th scope="col">Basic</th>
-        <th scope="col">Git Status</th>
     </tr>
     <tr>
+        <td>
+            <a href="https://github.com/artbindu/github-readme-stats">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu" />
+            </a>
+        </td>
         <td>
             <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -124,11 +129,6 @@
                         src="https://cdn.simpleicons.org/fortran">
                 </a>
             </div>
-        </td>
-        <td>
-            <a href="https://github.com/artbindu/github-readme-stats">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu" />
-            </a>
         </td>
     </tr>
 </table>
