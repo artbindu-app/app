@@ -74,23 +74,23 @@
     </tr>
     <tr>
         <td>
-            <div style="padding-bottom:5px;">
+            <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                     <img align="left" alt="JavaScript" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/javascript"/>
                 </a>
-            </div><div style="padding-bottom:5px;">
+            </div><div style="display: block;padding: 10px;text-align: justify;">
                 <a href="https://www.typescriptlang.org/">
                     <img align="left" alt="Typescript" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/typescript"/>
                 </a>
             </div><div>&nbsp;</div>
-            <div style="padding-bottom:5px;">
+            <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://nodejs.org/en/docs/">
                     <img align="left" alt="NodeJs" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/node.js"/>
                 </a>
-            </div><div>
+            </div><div style="display: block;padding: 10px;text-align: justify;">
                 <a href="https://www.python.org/doc/">
                     <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/python/306998"/>
@@ -98,22 +98,26 @@
             </div>
         </td>
         <td>
-            <div style="padding-bottom:5px;">
+            <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://www.learn-c.org/">
                     <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/c">
                 </a>
-            </div><div style="padding-bottom:5px;">
+            </div><div>&nbsp;</div>
+            <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://devdocs.io/cpp/">
                     <img align="left" alt="C++" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/c++">
                 </a>
-            </div><div style="padding-bottom:5px;">
+            </div><div>&nbsp;
+            </div>
+            <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://docs.oracle.com/javase/tutorial/java/index.html">
                     <img align="left" alt="Java" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
                 </a>
-            </div><div>
+            </div><div>&nbsp;</div>
+            <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
                     <img align="left" alt="fortran" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/fortran">
