@@ -218,7 +218,7 @@
       </a>
       <a href="https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html">
           <img align="left" alt="macOs" width="50px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/macos"/>
+              src="https://cdn.simpleicons.org/macos/e5c185"/>
       </a>
       <!-- <a href="https://www.linux.org/forums/#linux-tutorials.122">
           <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
