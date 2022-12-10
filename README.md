@@ -217,7 +217,7 @@
               src="https://cdn.simpleicons.org/windows"/>
       </a>
       <a href="https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html">
-          <img align="left" alt="macOs" width="35px" style="background-color:white; padding:5px;"
+          <img align="left" alt="macOs" width="50px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/macos"/>
       </a>
       <!-- <a href="https://www.linux.org/forums/#linux-tutorials.122">
