@@ -174,7 +174,7 @@
 <br />
 
 
-## Known Tools
+## Known Tools:
 
 <div>
       <a href="https://code.visualstudio.com/docs">
@@ -209,7 +209,7 @@
 <br />
 
 
-## Operating System
+## Operating System:
 
 <div>
       <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd">
@@ -232,7 +232,7 @@
 <br />
 
 
-## Video Player (UI)
+## Video Player (UI):
 
 <div>
       <a href="http://cdn.dashjs.org/latest/jsdoc/index.html">
