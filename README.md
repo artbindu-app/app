@@ -74,20 +74,20 @@
 ## Known Programming Languages (Basic):
 
 <div>
-      <a href="https://www.learn-c.org/">
+      <a href="https://www.learn-c.org/" placeholder="C">
           <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
             src="https://cdn.simpleicons.org/c">
       </a>
       <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
-          <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
+          <img align="left" alt="C++" width="35px" style="background-color:white; padding:5px;"
             src="https://cdn.simpleicons.org/c++">
       </a>
       <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
-          <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
+          <img align="left" alt="Java" width="35px" style="background-color:white; padding:5px;"
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
       </a>
       <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
-          <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
+          <img align="left" alt="fortran" width="35px" style="background-color:white; padding:5px;"
             src="https://cdn.simpleicons.org/fortran">
       </a>
 </div>
