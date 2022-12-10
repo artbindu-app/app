@@ -11,73 +11,115 @@
   [2]: https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta
   [3]: https://i.stack.imgur.com/D5Hwq.png
 
+
   <div>
       <!-- <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
           <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
-              src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+              src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
       </a> -->
       <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-          <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
-              src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
+          <img align="left" width="24px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/stackoverflow/orange-400"/>
       </a>&nbsp;
       <a href="https://medium.com/@artbindu">
-          <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
-              src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+          <img align="left" width="24px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/medium/black"/>
       </a>&nbsp;
       <a href="https://www.hackerrank.com/artbindu">
-          <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
-              src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
+          <img align="left" width="24px" style="background-color:white; padding:5px;"
+              src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"/>
       </a>&nbsp;
       <a href="https://www.hackerearth.com/@artbindu">
-          <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
-              src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg" />
+          <img align="left" width="24px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/hackerearth/lblue"/>
       </a>&nbsp;
       <a href="https://www.quora.com/profile/Art-Bindu-1">
-          <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
-              src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg" />
+          <img align="left" width="24px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/github/black"/>
       </a>&nbsp;
       <a href="https://bitbucket.org/artbindu/">
-          <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
-              src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg" />
+          <img align="left" width="24px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/bitbucket/lblue"/>
       </a>&nbsp;
-  </div>
-  <br />
+      <!-- <a href="https://www.quora.com/profile/Art-Bindu-1">
+          <img align="left" width="24px" style="background-color:white; padding:5px;"
+              src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg"/>
+      </a>&nbsp; -->
+  </div><br />
 
 
-## Languages and Tools:
+## Known Languages:
 
 <div>
-  <a href="https://code.visualstudio.com/docs">
-    <img align="left" alt="Visual Studio Code" width="26px" 
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img align="left" alt="JavaScript" width="26px" 
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-  </a>
-
-  <a href="https://www.python.org/doc/">
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
-    height="30px" style="background-color:#4BABF5; padding:5px;"><title>Python</title><path d="M14.25.18l.9.2.73.26.59.3.45.32.34.34.25.34.16.33.1.3.04.26.02.2-.01.13V8.5l-.05.63-.13.55-.21.46-.26.38-.3.31-.33.25-.35.19-.35.14-.33.1-.3.07-.26.04-.21.02H8.77l-.69.05-.59.14-.5.22-.41.27-.33.32-.27.35-.2.36-.15.37-.1.35-.07.32-.04.27-.02.21v3.06H3.17l-.21-.03-.28-.07-.32-.12-.35-.18-.36-.26-.36-.36-.35-.46-.32-.59-.28-.73-.21-.88-.14-1.05-.05-1.23.06-1.22.16-1.04.24-.87.32-.71.36-.57.4-.44.42-.33.42-.24.4-.16.36-.1.32-.05.24-.01h.16l.06.01h8.16v-.83H6.18l-.01-2.75-.02-.37.05-.34.11-.31.17-.28.25-.26.31-.23.38-.2.44-.18.51-.15.58-.12.64-.1.71-.06.77-.04.84-.02 1.27.05zm-6.3 1.98l-.23.33-.08.41.08.41.23.34.33.22.41.09.41-.09.33-.22.23-.34.08-.41-.08-.41-.23-.33-.33-.22-.41-.09-.41.09zm13.09 3.95l.28.06.32.12.35.18.36.27.36.35.35.47.32.59.28.73.21.88.14 1.04.05 1.23-.06 1.23-.16 1.04-.24.86-.32.71-.36.57-.4.45-.42.33-.42.24-.4.16-.36.09-.32.05-.24.02-.16-.01h-8.22v.82h5.84l.01 2.76.02.36-.05.34-.11.31-.17.29-.25.25-.31.24-.38.2-.44.17-.51.15-.58.13-.64.09-.71.07-.77.04-.84.01-1.27-.04-1.07-.14-.9-.2-.73-.25-.59-.3-.45-.33-.34-.34-.25-.34-.16-.33-.1-.3-.04-.25-.02-.2.01-.13v-5.34l.05-.64.13-.54.21-.46.26-.38.3-.32.33-.24.35-.2.35-.14.33-.1.3-.06.26-.04.21-.02.13-.01h5.84l.69-.05.59-.14.5-.21.41-.28.33-.32.27-.35.2-.36.15-.36.1-.35.07-.32.04-.28.02-.21V6.07h2.09l.14.01zm-6.47 14.25l-.23.33-.08.41.08.41.23.33.33.23.41.08.41-.08.33-.23.23-.33.08-.41-.08-.41-.23-.33-.33-.23-.41-.08-.41.08z"/></svg>
-  </a>
-      
-  <a href="https://www.typescriptlang.org/">
-    <img align="left" alt="Typescript" width="35px" 
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-  </a>
-            
-  <a href="https://nodejs.org/en/docs/">
-    <img align="left" alt="NodeJs" width="35px" 
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-  </a>
-            
-  <a href="https://www.learn-c.org/">
-    <img align="left" alt="C" width="35px" 
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
-  </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img align="left" alt="JavaScript" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/javascript"/>
+      </a>
+      <a href="https://www.python.org/doc/">
+          <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/python/4B8BBE"/>
+      </a>
+      <a href="https://www.typescriptlang.org/">
+          <img align="left" alt="Typescript" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/typescript"/>
+      </a>
+      <a href="https://nodejs.org/en/docs/">
+          <img align="left" alt="NodeJs" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/node.js"/>
+      </a>
+      <a href="https://www.learn-c.org/">
+          <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
+            src="https://cdn.simpleicons.org/c">
+      </a>
 </div>
-<br/>
+<br />
+
+
+## Known Tools
+
+<div>
+      <a href="https://code.visualstudio.com/docs">
+          <img align="left" alt="Visual Studio Code" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/VisualStudioCode"/>
+      </a>
+      <a href="https://git-scm.com/docs/gittutorial">
+          <img align="left" alt="JavaScript" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/git"/>
+      </a>
+       <a href="https://debricked.com/docs/integrations/ci-build-systems/bitbucket.html">
+          <img align="left" width="24px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/bitbucket/lblue"/>
+      </a>
+      <!-- <a href="https://learn.microsoft.com/en-us/azure/?product=popular">
+          <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/azure"/>
+      </a> -->
+</div>
+<br />
+
+
+## Operating System
+
+<div>
+      <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd">
+          <img align="left" alt="Windows" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/windows"/>
+      </a>
+      <a href="https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html">
+          <img align="left" alt="macOs" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/macos"/>
+      </a>
+      <!-- <a href="https://www.linux.org/forums/#linux-tutorials.122">
+          <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/linux"/>
+      </a> -->
+      <a href="https://ubuntu.com/tutorials/command-line-for-beginners">
+          <img align="left" alt="Typescript" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/ubuntu"/>
+      </a>
+</div>
+<br />
+
 
 ## :trophy: My Github Stats:
 <div>
@@ -87,17 +129,23 @@
   <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight">
     <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight"/>
   </a>
-</div>
+</div><br />
+
+
 <a href="https://artbindu.github.io/digital-cv/index.md">Resume Details</a>
 
-</hr>
-<br>
+</hr><br />
+
 
 ## My Website:
 
 - [x] [Round Off Decimal Number](https://artbindu.github.io/roundoffdecimal.github.io/)
 - [x] [Essential Command](https://artbindu.github.io/EssentialCmd.github.io/src/wincmd.html)
 
+<!-- #Icon Details: 
+    https://github.com/simple-icons/simple-icons
+    https://cdn.simpleicons.org/ 
+-->
 
 <!-- #Ignore code
 <a href="https://raw.githubusercontent.com/artbindu/artbindu123.github.io/main/index.html">Resume Details </a>
