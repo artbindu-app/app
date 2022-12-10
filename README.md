@@ -61,7 +61,7 @@
       </a>
       <a href="https://www.python.org/doc/">
           <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/python/4B8BBE"/>
+              src="https://cdn.simpleicons.org/python/306998"/>
       </a>
       <a href="https://nodejs.org/en/docs/">
           <img align="left" alt="NodeJs" width="35px" style="background-color:white; padding:5px;"
