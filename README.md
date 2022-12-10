@@ -79,25 +79,24 @@
             </a>
         </td>
         <td>
-            <div>&nbsp;</div>
             <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                     <img align="left" alt="JavaScript" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/javascript"/>
                 </a>
-            </div><div>&nbsp;</div><div>&nbsp;</div>
+            </div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div>
             <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://www.typescriptlang.org/">
                     <img align="left" alt="Typescript" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/typescript"/>
                 </a>
-            </div><div>&nbsp;</div><div>&nbsp;</div>
+            </div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div>
             <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://nodejs.org/en/docs/">
                     <img align="left" alt="NodeJs" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/node.js"/>
                 </a>
-            </div><div>&nbsp;</div><div>&nbsp;</div>
+            </div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div>
             <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://www.python.org/doc/">
                     <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
