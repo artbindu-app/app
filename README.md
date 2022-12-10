@@ -6,14 +6,13 @@
 # 👋, I am Biswasindhu Mandal
 
 ## Connect with me:
-Linked In | Stack Over Flow
--|-
 [![Biswasindhu Mandal-LinkedIn][2]][1] | [![Biswasindhu Mandal-StackOverflow][4]][3]
+-|-
 
   [1]: https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta
   [2]: https://i.stack.imgur.com/D5Hwq.png
   [3]: https://stackoverflow.com/users/10850045/art-bindu?tab=profile
-  [4]: https://so-stats-kurt-liao.vercel.app/api?user=1085004
+  [4]: https://so-stats-kurt-liao.vercel.app/api?user=10850045
 
 <hr/>
 
