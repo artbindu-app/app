@@ -27,7 +27,7 @@
   <!-- [![artbindu GitHub Language Score](https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu)](https://github.com/artbindu/github-readme-stats) -->
 
 
-  <div>
+  <div style="margin:auto;width:70%;border:2px;padding:6px;">
       <!-- <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
           <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
               src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -63,10 +63,10 @@
   </div><br />
 
 
-## Known Programming Languages ():
+
 
 <table>
-    <caption>Alien football stars</caption>
+    <caption><h1>Known Programming Languages</h1></caption>
     <tr>
         <th scope="col">Git Status</th>
         <th scope="col">Experience</th>
