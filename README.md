@@ -22,7 +22,7 @@
 
 
 
-  [![artbindu GitHub stats](https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/artbindu/github-readme-stats#gh-dark-mode-only)
+  [![artbindu GitHub stats](https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/artbindu/github-readme-stats)
 
 
   [![artbindu GitHub Language Score](https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu)](https://github.com/anuraghazra/github-readme-stats)
