@@ -48,7 +48,7 @@
   </div><br />
 
 
-## Known Programming Languages:
+## Known Programming Languages (Experience):
 
 <div>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -67,9 +67,24 @@
           <img align="left" alt="NodeJs" width="35px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/node.js"/>
       </a>
+</div>
+<br />
+
+
+## Known Programming Languages (Basic):
+
+<div>
       <a href="https://www.learn-c.org/">
           <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
             src="https://cdn.simpleicons.org/c">
+      </a>
+      <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
+          <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
+            src="https://cdn.simpleicons.org/c++">
+      </a>
+      <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
+          <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
       </a>
       <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
           <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
@@ -136,7 +151,7 @@
 <br />
 
 
-## Known Unit-test Libranry, Framework & Covearge Tools:
+## Known Unit-test Library, Framework & Covearge Tools:
 
 <div>
       <a href="https://www.chaijs.com/api/bdd/">
