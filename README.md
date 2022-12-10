@@ -79,6 +79,7 @@
                     <img align="left" alt="JavaScript" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/javascript"/>
                 </a>
+            </div><div>
                 <a href="https://www.typescriptlang.org/">
                     <img align="left" alt="Typescript" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/typescript"/>
@@ -88,6 +89,7 @@
                     <img align="left" alt="NodeJs" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/node.js"/>
                 </a>
+            </div><div>
                 <a href="https://www.python.org/doc/">
                     <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/python/306998"/>
@@ -100,6 +102,7 @@
                     <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/c">
                 </a>
+            </div><div>
                 <a href="https://devdocs.io/cpp/">
                     <img align="left" alt="C++" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/c++">
@@ -109,6 +112,7 @@
                     <img align="left" alt="Java" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
                 </a>
+            </div><div>
                 <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
                     <img align="left" alt="fortran" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/fortran">
