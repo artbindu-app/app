@@ -283,7 +283,7 @@
 
 </hr>
 
-# <a href="https://artbindu.github.io/cv.github.io/index.html"><img align="left" src="favicon.ico" width="35px"> Resume Details</a>
+# <a href="https://artbindu.github.io/cv.github.io/index.html"><img align="left" src="https://artbindu.github.io/cv.github.io/favicon.ico" width="35px"> Resume Details</a>
 
 </hr><br />
 
