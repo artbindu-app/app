@@ -16,12 +16,6 @@
 
 <hr/>
 
-  [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium.com/@artbindu/round-off-decimal-number-properly-using-regular-expression-1225d42239fb)
-
-  [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium.com/@artbindu/puzzling-with-regular-expression-d2f6cc1d1976)
-
-
-
   [![artbindu GitHub stats](https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/artbindu/github-readme-stats)
 
   <!-- [![artbindu GitHub Language Score](https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu)](https://github.com/artbindu/github-readme-stats) -->
@@ -287,30 +281,25 @@
 </div>
 <br /><br />
 
-
-
-<!-- ## :trophy: My Github Stats:
-<div>
-  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=artbindu&count_private=true&show_icons=true&theme=tokyonight">
-    <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=artbindu&count_private=true&show_icons=true&theme=tokyonight"/>
-  </a>
-  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight">
-    <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=artbindu&hide=php&theme=tokyonight"/>
-  </a>
-</div><br /> -->
-
-
 </hr>
 
-# <a href="https://artbindu.github.io/cv.github.io/index.html">Resume Details</a>
+# <a href="https://artbindu.github.io/cv.github.io/index.html"><img align="left" src="favicon.ico" width="35px"> Resume Details</a>
 
 </hr><br />
 
+## My Blogs:
+
+  [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium.com/@artbindu/round-off-decimal-number-properly-using-regular-expression-1225d42239fb)
+
+  [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium.com/@artbindu/puzzling-with-regular-expression-d2f6cc1d1976)
 
 ## My Website:
 
 - [x] [Round Off Decimal Number](https://artbindu.github.io/roundoffdecimal.github.io/)
 - [x] [Essential Command](https://artbindu.github.io/EssentialCmd.github.io/src/wincmd.html)
+
+
+
 
 <!-- #Icon Details: 
     https://github.com/simple-icons/simple-icons
