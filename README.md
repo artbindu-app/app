@@ -16,9 +16,17 @@
 
 <hr/>
 
-  [![My Medium story](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium.com/@artbindu/round-off-decimal-number-properly-using-regular-expression-1225d42239fb)
+  [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium.com/@artbindu/round-off-decimal-number-properly-using-regular-expression-1225d42239fb)
 
-  [![My Medium story](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium.com/@artbindu/puzzling-with-regular-expression-d2f6cc1d1976)
+  [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium.com/@artbindu/puzzling-with-regular-expression-d2f6cc1d1976)
+
+
+
+  [![artbindu GitHub stats](https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/artbindu/github-readme-stats#gh-dark-mode-only)
+
+
+  [![artbindu GitHub Language Score](https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
   <div>
