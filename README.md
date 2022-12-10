@@ -111,8 +111,7 @@
                     <img align="left" alt="C++" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/c++">
                 </a>
-            </div><div>&nbsp;
-            </div>
+            </div><div>&nbsp;</div>
             <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://docs.oracle.com/javase/tutorial/java/index.html">
                     <img align="left" alt="Java" width="35px" style="background-color:white; padding:5px;"
