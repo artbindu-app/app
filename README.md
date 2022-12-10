@@ -226,7 +226,6 @@
 </div>
 <br />
 
-
 ## Operating System:
 
 <div>
