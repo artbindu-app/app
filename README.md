@@ -236,18 +236,17 @@
 
 <div>
       <a href="http://cdn.dashjs.org/latest/jsdoc/index.html">
-          <img align="left" alt="Dash.js" width="56px" style="background-color:#EAECEC; padding:5px;"
+          <img align="left" alt="Dash.js" width="100px" style="background-color:#EAECEC; padding:5px;"
               src="https://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/app/img/if.png"/>
       </a>
       <a href="https://developer.apple.com/documentation/http_live_streaming">
-          <img align="left" alt="HTTP Live Streaming" width="20px" style="background-color:white; padding:5px;"
+          <img align="left" alt="HTTP Live Streaming" width="35px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/apple"/>
       </a>
       <a href="https://bitmovin.com/docs/player/tutorials">
-      <img alt="File:Bitmovin logo 2016.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bitmovin_logo_2016.svg/207px-Bitmovin_logo_2016.svg.png?20180705131518" decoding="async" width="150" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bitmovin_logo_2016.svg/311px-Bitmovin_logo_2016.svg.png?20180705131518 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bitmovin_logo_2016.svg/414px-Bitmovin_logo_2016.svg.png?20180705131518 2x" data-file-width="207" data-file-height="44">
-          <!-- <img align="left" alt="Bitmovin Player" width="35px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/ubuntu"/> -->
-    </a>
+         <img alt="File:Bitmovin logo 2016.svg" style="background-color:#EAECEC; padding:5px;"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bitmovin_logo_2016.svg/207px-Bitmovin_logo_2016.svg.png?20180705131518" decoding="async" width="145" height="35" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bitmovin_logo_2016.svg/311px-Bitmovin_logo_2016.svg.png?20180705131518 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bitmovin_logo_2016.svg/414px-Bitmovin_logo_2016.svg.png?20180705131518 2x" data-file-width="145" data-file-height="35">
+      </a>
 </div>
 <br />
 
