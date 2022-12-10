@@ -24,9 +24,7 @@
 
   [![artbindu GitHub stats](https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/artbindu/github-readme-stats)
 
-
-  [![artbindu GitHub Language Score](https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu)](https://github.com/anuraghazra/github-readme-stats)
-
+  <!-- [![artbindu GitHub Language Score](https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu)](https://github.com/artbindu/github-readme-stats) -->
 
 
   <div>
@@ -65,51 +63,65 @@
   </div><br />
 
 
-## Known Programming Languages (Experience):
+## Known Programming Languages ():
 
-<div>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img align="left" alt="JavaScript" width="35px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/javascript"/>
-      </a>
-      <a href="https://www.typescriptlang.org/">
-          <img align="left" alt="Typescript" width="35px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/typescript"/>
-      </a>
-      <a href="https://www.python.org/doc/">
-          <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/python/306998"/>
-      </a>
-      <a href="https://nodejs.org/en/docs/">
-          <img align="left" alt="NodeJs" width="35px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/node.js"/>
-      </a>
-</div>
-<br />
-
-
-## Known Programming Languages (Basic):
-
-<div>
-      <a href="https://www.learn-c.org/">
-          <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
-            src="https://cdn.simpleicons.org/c">
-      </a>
-      <a href="https://devdocs.io/cpp/">
-          <img align="left" alt="C++" width="35px" style="background-color:white; padding:5px;"
-            src="https://cdn.simpleicons.org/c++">
-      </a>
-      <a href="https://docs.oracle.com/javase/tutorial/java/index.html">
-          <img align="left" alt="Java" width="35px" style="background-color:white; padding:5px;"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
-      </a>
-      <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
-          <img align="left" alt="fortran" width="35px" style="background-color:white; padding:5px;"
-            src="https://cdn.simpleicons.org/fortran">
-      </a>
-</div>
-<br />
-
+<table>
+    <caption>Alien football stars</caption>
+    <tr>
+        <th scope="col">Experience</th>
+        <th scope="col">Basic</th>
+        <th scope="col">Git Status</th>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+                    <img align="left" alt="JavaScript" width="35px" style="background-color:white; padding:5px;"
+                        src="https://cdn.simpleicons.org/javascript"/>
+                </a>
+                <a href="https://www.typescriptlang.org/">
+                    <img align="left" alt="Typescript" width="35px" style="background-color:white; padding:5px;"
+                        src="https://cdn.simpleicons.org/typescript"/>
+                </a>
+            </div><div>
+                <a href="https://nodejs.org/en/docs/">
+                    <img align="left" alt="NodeJs" width="35px" style="background-color:white; padding:5px;"
+                        src="https://cdn.simpleicons.org/node.js"/>
+                </a>
+                <a href="https://www.python.org/doc/">
+                    <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
+                        src="https://cdn.simpleicons.org/python/306998"/>
+                </a>
+            </div>
+        </td>
+        <td>
+            <div>
+                <a href="https://www.learn-c.org/">
+                    <img align="left" alt="C" width="35px" style="background-color:white; padding:5px;"
+                        src="https://cdn.simpleicons.org/c">
+                </a>
+                <a href="https://devdocs.io/cpp/">
+                    <img align="left" alt="C++" width="35px" style="background-color:white; padding:5px;"
+                        src="https://cdn.simpleicons.org/c++">
+                </a>
+            </div><div>
+                <a href="https://docs.oracle.com/javase/tutorial/java/index.html">
+                    <img align="left" alt="Java" width="35px" style="background-color:white; padding:5px;"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
+                </a>
+                <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
+                    <img align="left" alt="fortran" width="35px" style="background-color:white; padding:5px;"
+                        src="https://cdn.simpleicons.org/fortran">
+                </a>
+            </div>
+        </td>
+        <td>
+            <a href="https://github.com/artbindu/github-readme-stats">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 ## Known Database:
 
