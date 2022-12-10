@@ -264,7 +264,7 @@
 
 </hr>
 
-# <a href="https://artbindu.github.io/artbindu123.github.io/index.html">Resume Details</a>
+# <a href="https://artbindu.github.io/cv.github.io/index.html">Resume Details</a>
 
 </hr><br />
 
