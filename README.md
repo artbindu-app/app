@@ -229,7 +229,7 @@
               src="https://cdn.simpleicons.org/ubuntu"/>
       </a>
 </div>
-<br />
+<br /><br /><br />
 
 
 ## Video Player (UI):
