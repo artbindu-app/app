@@ -23,7 +23,7 @@
       </a>&nbsp;
       <a href="https://medium.com/@artbindu">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/medium/black"/>
+              src="https://cdn.simpleicons.org/medium/66cdaa"/>
       </a>&nbsp;
       <a href="https://www.hackerrank.com/artbindu">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
@@ -35,7 +35,7 @@
       </a>&nbsp;
       <a href="https://www.quora.com/profile/Art-Bindu-1">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/github/black"/>
+              src="https://cdn.simpleicons.org/github/f34f29"/>
       </a>&nbsp;
       <a href="https://bitbucket.org/artbindu/">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
@@ -241,7 +241,7 @@
       </a>
       <a href="https://developer.apple.com/documentation/http_live_streaming">
           <img align="left" alt="HTTP Live Streaming" width="35px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/apple"/>
+              src="https://cdn.simpleicons.org/apple/A2AAAD"/>
       </a>
       <a href="https://bitmovin.com/docs/player/tutorials">
          <img alt="File:Bitmovin logo 2016.svg" style="background-color:#EAECEC; padding:5px;"
