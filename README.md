@@ -6,10 +6,20 @@
 # 👋, I am Biswasindhu Mandal
 
 ## Connect with me:
-[![Biswasindhu Mandal-LinkedIn][3]][2]
+Linked In | Stack Over Flow
+-|-
+[![Biswasindhu Mandal-LinkedIn][2]][1] | [![Biswasindhu Mandal-StackOverflow][4]][3]
 
-  [2]: https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta
-  [3]: https://i.stack.imgur.com/D5Hwq.png
+  [1]: https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta
+  [2]: https://i.stack.imgur.com/D5Hwq.png
+  [3]: https://stackoverflow.com/users/10850045/art-bindu?tab=profile
+  [4]: https://so-stats-kurt-liao.vercel.app/api?user=1085004
+
+<hr/>
+
+  [![My Medium story](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium.com/@artbindu/round-off-decimal-number-properly-using-regular-expression-1225d42239fb)
+
+  [![My Medium story](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium.com/@artbindu/puzzling-with-regular-expression-d2f6cc1d1976)
 
 
   <div>
@@ -17,14 +27,14 @@
           <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
               src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
       </a> -->
-      <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
+      <!-- <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/stackoverflow/orange-400"/>
-      </a>&nbsp;
-      <a href="https://medium.com/@artbindu">
+      </a>&nbsp; -->
+      <!-- <a href="https://medium.com/@artbindu">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/medium/green"/>
-      </a>&nbsp;
+      </a>&nbsp; -->
       <a href="https://www.hackerrank.com/artbindu">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
               src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"/>
@@ -276,6 +286,7 @@
 <!-- #Icon Details: 
     https://github.com/simple-icons/simple-icons
     https://cdn.simpleicons.org/ 
+    https://github.com/anuraghazra/github-readme-stats
 -->
 
 <!-- #Ignore code
