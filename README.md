@@ -131,8 +131,8 @@
 
 <div>
       <a href="https://docs.oracle.com/en/database/oracle/oracle-database/21/development.html">
-          <img align="left" alt="Oracle (sql)" width="35px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/Oracle"/>
+          <img align="left" alt="Oracle (sql)" height="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.worldvectorlogo.com/logos/oracle-logo-3.svg"/>
       </a>
       <!-- <a href="https://learn.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver16">
           <img align="left" alt="MsSQL (sql)" width="35px" style="background-color:white; padding:5px;"
@@ -195,7 +195,7 @@
           <img align="left" alt="Chai.js (Library)" width="35px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/chai"/>
       </a>
-      <a href="https://docs.oracle.com/en/database/oracle/oracle-database/21/development.html">
+      <a href="https://mochajs.org/api/">
           <img align="left" alt="Mocha.js (Framework)" width="35px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/mocha"/>
       </a>
