@@ -23,35 +23,35 @@
 
   <div style="margin:auto;width:70%;border:2px;padding:6px;">
       <!-- <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
-          <img align="left" width="24px" style="background-color:#4BABF5; padding:5px;"
+          <img align="left" width="30px" style="background-color:#4BABF5; padding:5px;"
               src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
       </a> -->
       <!-- <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-          <img align="left" width="24px" style="background-color:white; padding:5px;"
+          <img align="left" width="30px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/stackoverflow/orange-400"/>
       </a>&nbsp; -->
       <!-- <a href="https://medium.com/@artbindu">
-          <img align="left" width="24px" style="background-color:white; padding:5px;"
+          <img align="left" width="30px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/medium/green"/>
       </a>&nbsp; -->
       <a href="https://www.hackerrank.com/artbindu">
-          <img align="left" width="24px" style="background-color:white; padding:5px;"
+          <img align="left" width="30px" style="background-color:white; padding:5px;"
               src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/>
       </a>&nbsp;
       <a href="https://www.hackerearth.com/@artbindu">
-          <img align="left" width="24px" style="background-color:white; padding:5px;"
+          <img align="left" width="30px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/hackerearth/lblue"/>
       </a>&nbsp;
       <a href="https://github.com/artbindu">
-          <img align="left" width="24px" style="background-color:white; padding:5px;"
+          <img align="left" width="30px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/github/f34f29"/>
       </a>&nbsp;
       <a href="https://bitbucket.org/artbindu/">
-          <img align="left" width="24px" style="background-color:white; padding:5px;"
+          <img align="left" width="30px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/bitbucket/lblue"/>
       </a>&nbsp;
       <!-- <a href="https://www.quora.com/profile/Art-Bindu-1">
-          <img align="left" width="24px" style="background-color:white; padding:5px;"
+          <img align="left" width="30px" style="background-color:white; padding:5px;"
               src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg"/>
       </a>&nbsp; -->
   </div><br />
