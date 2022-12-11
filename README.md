@@ -36,7 +36,7 @@
       </a>&nbsp; -->
       <a href="https://www.hackerrank.com/artbindu">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
-              src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"/>
+              src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/>
       </a>&nbsp;
       <a href="https://www.hackerearth.com/@artbindu">
           <img align="left" width="24px" style="background-color:white; padding:5px;"
@@ -114,7 +114,7 @@
             <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://docs.oracle.com/javase/tutorial/java/index.html">
                     <img align="left" alt="Java" width="35px" style="background-color:white; padding:5px;"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
+                        src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
                 </a>
             </div><div>&nbsp;</div>
             <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
@@ -241,7 +241,7 @@
 </div>
 <br />
 
-## Video Player (UI):
+## Known Streaming Media Player Library (UI):
 
 <div>
       <a href="http://cdn.dashjs.org/latest/jsdoc/index.html">
@@ -249,8 +249,8 @@
               src="https://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/app/img/if.png"/>
       </a>
       <a href="https://developer.apple.com/documentation/http_live_streaming">
-          <img align="left" alt="HTTP Live Streaming" width="35px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/apple/A2AAAD"/>
+          <img align="left" alt="HTTP Live Streaming" height="35px" style="background-color:white; padding:5px;"
+              src="https://bitmovin.com/wp-content/uploads/2016/04/apple_hls_6401.jpg"/>
       </a>
       <a href="https://bitmovin.com/docs/player/tutorials">
          <img alt="File:Bitmovin logo 2016.svg" style="background-color:#EAECEC; padding:5px;"
@@ -263,23 +263,23 @@
 
 <div>
       <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd">
-          <img align="left" alt="Windows" width="35px" style="background-color:white; padding:5px;"
+          <img align="left" alt="Windows" width="40px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/windows"/>
       </a>
       <a href="https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html">
-          <img align="left" alt="macOs" width="50px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/macos/e5c185"/>
+          <img align="left" alt="macOs" height="40px" style="background-color:white; padding:5px;"
+              src="https://cdn.worldvectorlogo.com/logos/macintosh.svg"/>
       </a>
       <!-- <a href="https://www.linux.org/forums/#linux-tutorials.122">
-          <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
+          <img align="left" alt="Python" width="40px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/linux"/>
       </a> -->
       <a href="https://ubuntu.com/tutorials/command-line-for-beginners">
-          <img align="left" alt="Typescript" width="35px" style="background-color:white; padding:5px;"
+          <img align="left" alt="Typescript" width="40px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/ubuntu"/>
       </a>
 </div>
-<br /><br />
+<br /><br /><br />
 
 </hr>
 
