@@ -94,7 +94,7 @@
             <div style="display: block;padding:10px;margin-bottom:30px;text-align:justify;">
                 <a href="https://www.python.org/doc/">
                     <img align="left" alt="Python" width="35px" style="background-color:white; padding:5px;"
-                        src="https://cdn.simpleicons.org/python/306998"/>
+                        src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
                 </a>
             </div>
         </td>
@@ -150,7 +150,7 @@
 <br />
 
 
-## Known Module Bundlers:
+## Known Module Bundlers, Task Runner:
 
 <div>
       <a href="https://webpack.js.org/concepts/">
@@ -160,6 +160,10 @@
       <a href="https://rollupjs.org/guide/en/">
           <img align="left" alt="Rollup.js" width="35px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/Rollup.js"/>
+      </a>
+      <a href="https://gruntjs.com/getting-started">
+          <img align="left" alt="Grunt.js" height="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.worldvectorlogo.com/logos/grunt.svg"/>
       </a>
 </div>
 <br />
@@ -276,7 +280,7 @@
       </a> -->
       <a href="https://ubuntu.com/tutorials/command-line-for-beginners">
           <img align="left" alt="Typescript" width="40px" style="background-color:white; padding:5px;"
-              src="https://cdn.simpleicons.org/ubuntu"/>
+              src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
       </a>
 </div>
 <br /><br /><br />
