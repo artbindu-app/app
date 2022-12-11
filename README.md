@@ -60,27 +60,27 @@
 		</td>
 	</tr>
 	<tr>
-	    <td style="padding:0;margin:0;">
+	    <td align="center" style="padding:0;margin:0;">
 	        <a href="https://www.hackerrank.com/artbindu">
-                <img align="center" width="35px" style="margin-left:20%;background-color:white;padding:10px;"
+                <img align="center" width="35px" style="background-color:white;padding:10px;"
                   src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/>
             </a>
         </td>
-        <td style="padding:0;margin:0;">
+        <td align="center" style="padding:0;margin:0;">
 	        <a href="https://www.hackerearth.com/@artbindu">
-                  <img align="center" width="35px" style="margin-left:20%;background-color:white;padding:10px;"
+                  <img align="center" width="35px" style="background-color:white;padding:10px;"
                       src="https://cdn.simpleicons.org/hackerearth/lblue"/>
             </a>
         </td>
-        <td style="padding:0;margin:0;">
+        <td align="center" style="padding:0;margin:0;">
 	        <a href="https://github.com/artbindu">
-                  <img align="center" width="35px" style="margin-left:20%;background-color:white;padding:10px;"
+                  <img align="center" width="35px" style="background-color:white;padding:10px;"
                       src="https://cdn.simpleicons.org/github/f34f29"/>
             </a>
         </td>
-        <td style="padding:0;margin:0;">
+        <td align="center" style="padding:0;margin:0;">
 	        <a href="https://bitbucket.org/artbindu/">
-                  <img align="center" width="35px" style="margin-left:20%;background-color:white;padding:10px;"
+                  <img align="center" width="35px" style="background-color:white;padding:10px;"
                       src="https://cdn.simpleicons.org/bitbucket/lblue"/>
             </a>
         </td>
@@ -92,17 +92,17 @@
 <table>
     <tr>
         <td>Advance</td>
-        <td>
+        <td align="center">
             <div style="display:block;padding:10px;text-align:justify;">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin-left:10px;">
                     <img align="left" alt="JavaScript" width="35px" style="background-color:white;padding:5px;"
                         src="https://cdn.simpleicons.org/javascript">
                 </a>
-                <a href="https://www.typescriptlang.org/">
+                <a href="https://www.typescriptlang.org/" style="margin-left:10px;">
                     <img align="center" alt="Typescript" width="35px" style="background-color:white;padding:5px;"
                         src="https://cdn.simpleicons.org/typescript">
                 </a>
-                <a href="https://www.python.org/doc/">
+                <a href="https://www.python.org/doc/" style="margin-left:10px;">
                     <img align="center" alt="Python" height="35px" width="35px" style="background-color:white;padding:5px;"
                         src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
                 </a>
@@ -111,21 +111,21 @@
     </tr>
     <tr>
         <td>Basic</td>
-        <td>
+        <td align="center">
             <div style="display:block;padding:10px;text-align:justify;">
                 <a href="https://www.learn-c.org/" style="margin-left:10px;">
                     <img align="left" alt="C" width="35px" style="background-color:white;padding:5px;"
                         src="https://cdn.simpleicons.org/c">
                 </a>
-                <a href="https://devdocs.io/cpp/">
+                <a href="https://devdocs.io/cpp/" style="margin-left:10px;">
                     <img align="center" alt="C++" width="35px" style="background-color:white;padding:5px;"
                         src="https://cdn.simpleicons.org/c++">
                 </a>
-                <a href="https://docs.oracle.com/javase/tutorial/java/index.html">
+                <a href="https://docs.oracle.com/javase/tutorial/java/index.html" style="margin-left:10px;">
                     <img align="center" alt="Java" height="35px" width="35px" style="background-color:white;padding:5px;"
                         src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
                 </a>
-                <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf">
+                <a href="https://redhawk.concurrent-rt.com/docs/root/1Linux/5Compilers/Fortran/0890240-100.pdf" style="margin-left:10px;">
                     <img align="center" alt="fortran" width="35px" style="background-color:white; padding:5px;"
                         src="https://cdn.simpleicons.org/fortran">
                 </a>
@@ -297,6 +297,14 @@
       <a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/">
           <img align="left" alt="Postman" width="35px" style="background-color:white; padding:5px;"
               src="https://cdn.simpleicons.org/postman"/>
+      </a>
+      <a href="https://npp-user-manual.org/docs/">
+          <img align="left" alt="Postman" width="35px" style="background-color:white; padding:5px;"
+              src="https://cdn.simpleicons.org/notepad++/08730C"/>
+      </a>
+      <a href="https://www.charlesproxy.com/documentation/getting-started/">
+          <img align="left" alt="Postman" width="35px" style="background-color:white; padding:5px;"
+              src="https://artbindu.github.io/biswasindhu_cv.github.io/src/icons/charles_icon.svg"/>
       </a>
       <!-- <a href="https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/">
           <img align="left" alt="Swagger" width="35px" style="background-color:white; padding:5px;"
