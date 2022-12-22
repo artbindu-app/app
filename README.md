@@ -193,15 +193,15 @@
 ## Frontend Streaming Media Player Library:
 <div>
       <a href="http://cdn.dashjs.org/latest/jsdoc/index.html">
-          <img align="left" alt="Dash.js" height="35px" style="background-color:#EAECEC; padding:5px;"
-              src="https://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/app/img/if.png"/>
+          <img align="left" alt="Dash.js" height="35px" style="background-color:#EAECEC; padding:2px;"
+              src="https://dashif.org/img/dashif-logo-283x100_new.jpg"/>
       </a>
       <a href="https://developer.apple.com/documentation/http_live_streaming">
-          <img align="left" alt="HTTP Live Streaming" height="35px" style="background-color:black; padding:5px;"
+          <img align="left" alt="HTTP Live Streaming" height="35px" style="background-color:black; padding:2px;"
               src="https://bitmovin.com/wp-content/uploads/2016/04/apple_hls_6401.jpg"/>
       </a>
       <a href="https://bitmovin.com/docs/player/tutorials">
-         <img alt="File:Bitmovin logo 2016.svg" style="background-color:#EAECEC; padding:5px;"
+         <img alt="File:Bitmovin logo 2016.svg" style="background-color:#EAECEC; padding:2px;"
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bitmovin_logo_2016.svg/207px-Bitmovin_logo_2016.svg.png?20180705131518" decoding="async" width="145" height="35" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bitmovin_logo_2016.svg/311px-Bitmovin_logo_2016.svg.png?20180705131518 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bitmovin_logo_2016.svg/414px-Bitmovin_logo_2016.svg.png?20180705131518 2x" data-file-width="145" data-file-height="35">
       </a>
 </div>
