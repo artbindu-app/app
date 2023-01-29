@@ -245,7 +245,7 @@
           <img align="left" alt="Azure DevOps" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/AzureDevOps"/>
       </a>
-      <a href="https://git-scm.com/docs/gittutorial">
+      <a href="https://docs.gitlab.com/ee/tutorials/">
           <img align="left" alt="Git" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/gitlab"/>
       </a>
