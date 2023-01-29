@@ -245,6 +245,10 @@
           <img align="left" alt="Azure DevOps" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/AzureDevOps"/>
       </a>
+      <a href="https://git-scm.com/docs/gittutorial">
+          <img align="left" alt="Git" width="35px" style="background-color:black; padding:5px;"
+              src="https://cdn.simpleicons.org/gitlab"/>
+      </a>
       <!-- <a href="https://docs.docker.com/get-started/">
           <img align="left" alt="Docker" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/docker"/>
