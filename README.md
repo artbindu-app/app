@@ -364,3 +364,4 @@
 
 - [ ] [grunt-mocha-istanbul](https://github.com/pocesar/grunt-mocha-istanbul/issues/75)
 - [ ] [istanbuljs/nyc](https://github.com/istanbuljs/nyc/issues/1491)
+- [ ] [gruntjs/grunt](https://github.com/gruntjs/grunt/issues/1752)
