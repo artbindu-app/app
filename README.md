@@ -351,9 +351,11 @@
 
 ## My Blogs:
 
-  [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium.com/@artbindu/round-off-decimal-number-properly-using-regular-expression-1225d42239fb)
+  [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium-story.vercel.app/api?username=@artbindu&index=0)
+  
+  [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium-story.vercel.app/api?username=@artbindu&index=1)
 
-  [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium.com/@artbindu/puzzling-with-regular-expression-d2f6cc1d1976)
+  [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=2)](https://medium-story.vercel.app/api?username=@artbindu&index=2)
 
 ## My Website:
 
