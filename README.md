@@ -362,8 +362,10 @@
 - [x] [Round Off Decimal Number](https://artbindu.github.io/roundoffdecimal.github.io/)
 - [x] [Essential Command](https://artbindu.github.io/EssentialCmd.github.io/src/wincmd.html)
 
-## Tracking PRs
+## Tracking Issue
 
 - [ ] [grunt-mocha-istanbul](https://github.com/pocesar/grunt-mocha-istanbul/issues/75)
 - [ ] [istanbuljs/nyc](https://github.com/istanbuljs/nyc/issues/1491)
-- [ ] [gruntjs/grunt](https://github.com/gruntjs/grunt/issues/1752)
+- [ ] [gruntjs/grunt](https://github.com/gruntjs/grunt/issues/1752) (resolved)
+- [ ] [primePy](https://github.com/janaindrajit/primePy/issues/7)
+- [ ] [primePy](https://github.com/janaindrajit/primePy/issues/8)
