@@ -351,11 +351,13 @@
 
 ## My Blogs:
 
-  [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium-story.vercel.app/api?username=@artbindu&index=0)
+  [![artbindu Medium story - IV](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium-story.vercel.app/api?username=@artbindu&index=0)
   
-  [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium-story.vercel.app/api?username=@artbindu&index=1)
+  [![artbindu Medium story - III](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium-story.vercel.app/api?username=@artbindu&index=1)
 
-  [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=2)](https://medium-story.vercel.app/api?username=@artbindu&index=2)
+  [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=2)](https://medium-story.vercel.app/api?username=@artbindu&index=2)
+
+  [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=3)](https://medium-story.vercel.app/api?username=@artbindu&index=3)
 
 ## My Website:
 
@@ -366,6 +368,6 @@
 
 - [ ] [grunt-mocha-istanbul](https://github.com/pocesar/grunt-mocha-istanbul/issues/75)
 - [ ] [istanbuljs/nyc](https://github.com/istanbuljs/nyc/issues/1491)
-- [x] [gruntjs/grunt](https://github.com/gruntjs/grunt/issues/1752) (resolved)
+- [x] [gruntjs/grunt](https://github.com/gruntjs/grunt/issues/1752)
 - [ ] [primePy](https://github.com/janaindrajit/primePy/issues/7)
 - [ ] [primePy](https://github.com/janaindrajit/primePy/issues/8)
