@@ -33,16 +33,19 @@
 <table style="border-collapse: collapse;">
     <!-- <caption><h2>Git Status</h2></caption> -->
     <tr>
-		<th style="padding:0;margin:0;">
-		    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="artbindu"/>
+		<th rowspan="2" style="padding:0;margin:0;">
+         <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/> -->
+		    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/>
 		</th>
 		<th style="padding:0;margin:0;">
 		    <img align="center" src="https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="artbindu"/>
 		</th>
-		<th style="padding:0;margin:0;">
+	</tr>
+    <tr>
+    <th style="padding:0;margin:0;">
 		    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artbindu&&show_icons=true&theme=dark#gh-dark-mode-only" alt="artbindu"/>
 		</th>
-	</tr>
+    </tr>
 </table>
 
 ## Connect With Me

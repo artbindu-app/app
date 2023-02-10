@@ -63,3 +63,8 @@ Icon Details:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&locale=en" alt="artbindu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artbindu&" alt="artbindu" /></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artbindu&langs_count=8)](https://github.com/artbindu/github-readme-stats)
+
+
