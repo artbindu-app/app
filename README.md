@@ -374,4 +374,4 @@
 - [x] [gruntjs/grunt](https://github.com/gruntjs/grunt/issues/1752)
 - [ ] [primePy](https://github.com/janaindrajit/primePy/issues/7)
 - [ ] [primePy](https://github.com/janaindrajit/primePy/issues/8)
-- [ ] [videojs](https://github.com/videojs/video.js/issues/8306)
+- [x] [videojs](https://github.com/videojs/video.js/issues/8306)
