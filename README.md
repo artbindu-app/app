@@ -374,5 +374,5 @@
 - [x] [gruntjs/grunt](https://github.com/gruntjs/grunt/issues/1752)
 - [ ] [primePy](https://github.com/janaindrajit/primePy/issues/7)
 - [ ] [primePy](https://github.com/janaindrajit/primePy/issues/8)
-- [ ] [bitmovinPlayer](https://developer.bitmovin.com/playback/docs/release-notes-web#81200)
+- [x] [bitmovinPlayer](https://developer.bitmovin.com/playback/docs/release-notes-web#81200)
 - [x] [videojs](https://github.com/videojs/video.js/issues/8306)
