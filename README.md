@@ -365,7 +365,7 @@
 ## My Website:
 
 - [x] [Round Off Decimal Number](https://artbindu.github.io/roundoffdecimal.github.io/)
-- [x] [Essential Command](https://artbindu.github.io/EssentialCmd.github.io/src/wincmd.html)
+- [x] [Essential Command](https://artbindu.github.io/EssentialCmd.github.io/)
 
 ## Generated Issue & Tracking
 
