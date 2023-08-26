@@ -10,7 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=15" alt="artbindu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=15&column=7" alt="artbindu" />
+</a></p>
 
 <!-- <ul>
   <li>🔭 I’m currently working on [MediaKind WMC](https://mediakind.wmc)</li>
