@@ -3,7 +3,7 @@
 ![animated](https://avatars.githubusercontent.com/u/44528087?s=400&u=9e51f1d96969229ae1a25f0d1680b06e5ad69e94&v=4)
 -->
 
-<h1 align="center">Hi 👋, I'm Biswasindhu Mandal</h1>
+<h1 align="center">Hi 👋, I'm Biswasindhu Mandal <img align="center" padding="1px" src="https://artbindu.github.io/artbindu/src/favicon.ico" height="30px"></h1>
 <h3 align="center">A passionate Full Stack developer from 
 <a href="https://en.wikipedia.org/wiki/India"><img alt="File:Flag of India.svg" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png?20111003033457" decoding="async" width="30" height="20" srcset="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png?20111003033457 1.5x, https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1599px-Flag_of_India.svg.png?20111003033457 2x" data-file-width="1350" data-file-height="900"></a>
 </h3>
@@ -367,7 +367,7 @@
 ## My Website:
 
 - [x] [Round Off Decimal Number](https://artbindu.github.io/roundoff_decimal/)
-- [x] [Essential Command](https://artbindu.github.io/essential_cmd/)
+- [x] [Essential Command](https://artbindu.github.io/essential_command/)
 
 ## Generated Issue & Tracking
 
