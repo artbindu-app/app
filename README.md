@@ -25,7 +25,7 @@
       </a></li>
   <li>💬 Ask me about **Ask me about**</li>
   <li>📫 How to reach me: <strong>sindhu.online.24x7@gmail.com</strong></li>
-  <li>📄 Know about my experiences <a href="https://artbindu.github.io/biswasindhu_cv.github.io/index.html">
+  <li>📄 Know about my experiences <a href="https://artbindu.github.io/artbindu.github.io/index.html">
           <img align="end" width="20px" style="background-color:black; padding:0px;"
               src="https://cdn.simpleicons.org/readthedocs/green"/>
       </a></li>
@@ -313,7 +313,7 @@
       </a>
       <a href="https://www.charlesproxy.com/documentation/getting-started/">
           <img align="left" alt="Postman" width="35px" style="background-color:black; padding:5px;"
-              src="https://artbindu.github.io/biswasindhu_cv.github.io/src/icons/charles_icon.svg"/>
+              src="https://www.charlesproxy.com/static/img/icon.850a44d2.png"/>
       </a>
       <!-- <a href="https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/">
           <img align="left" alt="Swagger" width="35px" style="background-color:black; padding:5px;"
@@ -351,7 +351,7 @@
 
 <br/><br/></hr>
 
-# <a href="https://artbindu.github.io/biswasindhu_cv.github.io/index.html"><img align="left" src="https://artbindu.github.io/EssentialCmd/src/favicon.ico" height="40px">Resume Details</a>
+# <a href="https://artbindu.github.io/artbindu.github.io/index.html"><img align="left" src="https://artbindu.github.io/artbindu/src/favicon.ico" height="40px">Resume Details</a>
 </hr>
 
 ## My Blogs:
