@@ -5,13 +5,16 @@
 
 <h1 align="center">Hi 👋, I'm Biswasindhu Mandal <img align="center" padding="1px" src="https://artbindu.github.io/artbindu/src/favicon.ico" height="30px"></h1>
 <h3 align="center">A passionate Full Stack developer from 
-<a href="https://en.wikipedia.org/wiki/India"><img alt="File:Flag of India.svg" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png?20111003033457" decoding="async" width="30" height="20" srcset="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png?20111003033457 1.5x, https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1599px-Flag_of_India.svg.png?20111003033457 2x" data-file-width="1350" data-file-height="900"></a>
+<a href="https://en.wikipedia.org/wiki/India"><img src="https://www.india.gov.in/sites/upload_files/npi/files/favicon_0.ico" width="30" height="20" alt="artbindu"/></a>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu" /> </p>
+<!-- <img alt="File:Flag of India.svg" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png?20111003033457" decoding="async" width="30" height="20" srcset="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png?20111003033457 1.5x, https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1599px-Flag_of_India.svg.png?20111003033457 2x" data-file-width="1350" data-file-height="900"> -->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=15&column=7" alt="artbindu" />
+ <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=15&column=7" alt="artbindu"/>
 </a></p>
 
 <!-- <ul>
@@ -55,12 +58,12 @@
 	<tr>
 		<td rowspan="2" style="padding:0;margin:0;">
 		    <a href="https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta">
-                <img align="center" src="https://i.stack.imgur.com/D5Hwq.png" alt="artbindu" />
+                <img align="center" src="https://i.stack.imgur.com/D5Hwq.png" alt="artbindu"/>
             </a>
 		</td>
 		<td colspan="4" style="padding:0;margin:0;">
              <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-                <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" alt="artbindu" />
+                <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" alt="artbindu"/>
             </a>
 		</td>
 	</tr>
