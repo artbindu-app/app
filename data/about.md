@@ -1,6 +1,31 @@
 # About
 ---
 
+# Biswasindhu Mandal
+
+<table>
+	<tr>
+        <td align="center" style="padding:0;">
+	        <a href="https://github.com/artbindu">
+                  <img align="center" width="35px" style="padding:5px;margin-left:10px;"
+                      src="https://cdn.simpleicons.org/github/f34f29">
+            </a>
+        </td>
+        <td align="center" style="padding:0;">
+	        <a href="https://bitbucket.org/artbindu/">
+                  <img align="center" width="35px" style="padding:5px;margin-left:30px;"
+                      src="https://cdn.simpleicons.org/stackoverflow"/>
+            </a>
+        </td>
+        <td rowspan="2" style="padding:0;">
+		    <a href="https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta">
+            <img align="center" width="35px" style="padding:5px;margin-left:30px;margin-right:10px;"
+                      src="https://cdn.simpleicons.org/linkedIn"/>
+            </a>
+		</td>
+	</tr>
+</table>
+
 ## Professional Summary
 
 - Experienced Software Developer with 3 years of software industry experience. 

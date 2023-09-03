@@ -354,7 +354,7 @@
 
 <br/><br/></hr>
 
-# <a href="https://artbindu.github.io/artbindu/index.html"><img align="left" src="https://artbindu.github.io/artbindu/src/favicon.ico" height="40px">Resume Details</a>
+# <a href="https://artbindu.github.io/artbindu/index.html"><img align="left" src="https://artbindu.github.io/artbindu/src/favicon.ico" height="40px">&nbsp;&nbsp;Curriculum Vitae</a>
 </hr>
 
 <!-- ## My Blogs:
