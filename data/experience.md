@@ -1,8 +1,4 @@
----
-title: DigitalCV - About
----
 # Experience
-
 ---
 
 ## [Stenograph](https://www.linkedin.com/company/stenograph/) - CATalyst.

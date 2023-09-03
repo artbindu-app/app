@@ -1,9 +1,5 @@
----
-title: DigitalCV - Technical Skills
----
-
 # Relevant Skills Summary
-
+---
 
 ## Programming Languages
 <table>
@@ -221,7 +217,7 @@ title: DigitalCV - Technical Skills
       </a>&nbsp;
       <a href="https://www.charlesproxy.com/documentation/getting-started/">
           <img align="left" alt="Postman" width="35px" style="padding:5px;"
-              src="https://artbindu.github.io/biswasindhu_cv.github.io/src/icons/charles_icon.svg"/>
+              src="https://artbindu.github.io/artbindu/images/charles_icon.svg"/>
       </a>&nbsp;
       <!-- <a href="https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/">
           <img align="left" alt="Swagger" width="35px" style="padding:5px;"

@@ -1,8 +1,4 @@
----
-title: DigitalCV - About
----
 # About
-
 ---
 
 ## Professional Summary
@@ -22,3 +18,4 @@ VueJs.
 - Ability to work under pressure and positive attitude. 
 - Ability to adopt any environment. 
 - Analytical thinking and ability to synthesize. 
+  

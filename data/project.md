@@ -1,10 +1,5 @@
----
-title: DigitalCV - Project
----
 # Internship & Project 
-
 ---
-
 
 ## Internship
 
@@ -35,5 +30,4 @@ title: DigitalCV - Project
 
 * It is a demo of Online e-book Shopping.
 * Completed it using Database(Oracle10g), back-end(Java8, JSP), front-end(HTML, CSS, JavaScript)
-
 

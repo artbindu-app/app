@@ -96,7 +96,7 @@
 </table>
 <hr/>
 
-## Programming Languages
+<!-- ## Programming Languages
 <table>
     <tr>
         <td>Advance</td>
@@ -169,10 +169,10 @@
           <img align="left" alt="Angular" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/angular"/>
       </a>
-      <!-- <a href="https://reactjs.org/docs/getting-started.html">
+      <a href="https://reactjs.org/docs/getting-started.html">
           <img align="left" alt="React.js" width="35px" style="background-color:black; padding:5px;"
             src="https://cdn.simpleicons.org/react">
-      </a> -->
+      </a>
 </div>
 <br />
 
@@ -187,14 +187,14 @@
         <img align="left" alt="expressJs" width="35px" style="background-color:black; padding:5px;"
             src="https://cdn.simpleicons.org/express/EFEBEB"/>
     </a>
-    <!-- <a href="https://docs.nestjs.com/">
+    <a href="https://docs.nestjs.com/">
         <img align="left" alt="expressJs" width="35px" style="background-color:black; padding:5px;"
             src="https://cdn.simpleicons.org/nestjs"/>
     </a>
     <a href="https://nextjs.org/docs">
         <img align="left" alt="expressJs" width="35px" style="background-color:black; padding:5px;"
             src="https://cdn.simpleicons.org/next.js"/>
-    </a> -->
+    </a>
 </div>
 <br />
 
@@ -214,8 +214,8 @@
       </a>
 </div>
 
-<!-- ## Mobile App Development: -->
-<!-- ## AI/ML: -->
+## Mobile App Development:
+## AI/ML:
 
 ## Database:
 <div>
@@ -223,10 +223,10 @@
           <img align="left" alt="Oracle (sql)" height="35px" style="background-color:black; padding:5px;"
               src="https://cdn.worldvectorlogo.com/logos/oracle-logo-3.svg"/>
       </a>
-      <!-- <a href="https://learn.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver16">
+      <a href="https://learn.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver16">
           <img align="left" alt="MsSQL (sql)" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/MicrosoftSQLServer"/>
-      </a> -->
+      </a>
       <a href="https://dev.mysql.com/doc/">
           <img align="left" alt="MySql (sql)" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/mysql/869EF0"/>
@@ -237,7 +237,7 @@
       </a>
 </div>
 <br />
-<!-- ## Data Visualization -->
+## Data Visualization
 
 ## Devops
 <div>
@@ -257,25 +257,25 @@
           <img align="left" alt="Git" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/gitlab"/>
       </a>
-      <!-- <a href="https://docs.gitlab.com/ee/tutorials/">
+      <a href="https://docs.gitlab.com/ee/tutorials/">
           <img align="left" alt="Docker" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/docker"/>
-      </a> -->
-      <!-- <a href="https://confluence.atlassian.com/jiracoreserver073/jira-core-server-7-3-documentation-861255603.html">
+      </a>
+      <a href="https://confluence.atlassian.com/jiracoreserver073/jira-core-server-7-3-documentation-861255603.html">
           <img align="left" alt="Jira" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/jira"/>
-      </a> -->
+      </a>
 </div>
 <br />
-<!-- ## Backend as a Service (BaaS) -->
-<!-- ## Framework
+## Backend as a Service (BaaS)
+## Framework
 <div>
       <a href="https://www.electronjs.org/docs/latest/">
           <img align="left" alt="electron.js" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/electron"/>
       </a>
 </div>
-<br /> -->
+<br />
 
 
 ## Testing
@@ -292,10 +292,10 @@
           <img align="left" alt="Istanbul (Coverage)" width="35px" style="background-color:black; padding:5px;"
               src="https://istanbul.js.org/assets/istanbul-logo.png"/>
       </a>
-      <!-- <a href="https://jasmine.github.io/pages/docs_home.html">
+      <a href="https://jasmine.github.io/pages/docs_home.html">
           <img align="left" alt="Jasmin" width="35px" style="background-color:black; padding:5px;"
             src="https://cdn.simpleicons.org/jasmine">
-      </a> -->
+      </a>
 </div>
 <br />
 
@@ -318,10 +318,10 @@
           <img align="left" alt="Postman" width="35px" style="background-color:black; padding:5px;"
               src="https://artbindu.github.io/artbindu/images/charles_icon.svg"/>
       </a>
-      <!-- <a href="https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/">
+      <a href="https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/">
           <img align="left" alt="Swagger" width="35px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/swagger"/>
-      </a> -->
+      </a>
 </div>
 <br />
 
@@ -335,10 +335,10 @@
           <img align="left" alt="macOs" height="40px" style="background-color:black; padding:5px;"
               src="https://cdn.worldvectorlogo.com/logos/macintosh.svg"/>
       </a>
-      <!-- <a href="https://www.linux.org/forums/#linux-tutorials.122">
+      <a href="https://www.linux.org/forums/#linux-tutorials.122">
           <img align="left" alt="Python" width="40px" style="background-color:black; padding:5px;"
               src="https://cdn.simpleicons.org/linux"/>
-      </a> -->
+      </a>
       <a href="https://ubuntu.com/tutorials/command-line-for-beginners">
           <img align="left" alt="Typescript" width="40px" style="background-color:black; padding:5px;"
               src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
@@ -346,7 +346,7 @@
 </div>
 <br />
 
-<!-- ## Static Site Generator
+## Static Site Generator
 ## Game Engines
 ## Automation
 ## Other -->
@@ -357,7 +357,7 @@
 # <a href="https://artbindu.github.io/artbindu/index.html"><img align="left" src="https://artbindu.github.io/artbindu/src/favicon.ico" height="40px">Resume Details</a>
 </hr>
 
-## My Blogs:
+<!-- ## My Blogs:
 
   [![artbindu Medium story - IV](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium-story.vercel.app/api?username=@artbindu&index=0)
   
@@ -365,7 +365,7 @@
 
   [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=2)](https://medium-story.vercel.app/api?username=@artbindu&index=2)
 
-  [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=3)](https://medium-story.vercel.app/api?username=@artbindu&index=3)
+  [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=3)](https://medium-story.vercel.app/api?username=@artbindu&index=3) -->
 
 ## My Website:
 

@@ -1,10 +1,5 @@
----
-title: DigitalCV - Activities
----
 # Activities
-
 ---
-
 
 ## Languages 
 
