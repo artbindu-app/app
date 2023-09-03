@@ -12,7 +12,7 @@
             </a>
         </td>
         <td align="center" style="padding:0;">
-	        <a href="https://bitbucket.org/artbindu/">
+	        <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
                   <img align="center" width="35px" style="padding:5px;margin-left:15px;margin-right:15px;"
                       src="https://cdn.simpleicons.org/stackoverflow"/>
             </a>
