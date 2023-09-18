@@ -1105,6 +1105,11 @@
   cursor: pointer;
   background-color: #888;
   color: #FFFFFF; }
+
+  .btn:hover {
+    background-color: #FFFFFF !important;
+  }
+
   .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover,
   .show > .btn.dropdown-toggle,
   .show > .btn.dropdown-toggle:focus,
@@ -5271,17 +5276,20 @@ Created using IcoMoon - icomoon.io
 
 /* Footer */
 /* Social button style */
-.cc-facebook:hover i {
-  color: #3b5998; }
+.cc-github:hover i {
+  color: #f34f29; }
 
-.cc-twitter:hover i {
-  color: #1da1f2; }
+.cc-stackoverflow:hover i {
+  color: #F58025; }
 
-.cc-google-plus:hover i {
-  color: #dd4b39; }
+.cc-linkedin:hover i {
+  color: #0A66C2; }
 
-.cc-instagram:hover i {
-  color: #405de6; }
+.cc-medium:hover i {
+  color: #375d45; }
+
+.cc-skype:hover i {
+  color: #00AFF0; }
 
 /* Credit Style */
 a.credit {
