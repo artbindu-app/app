@@ -3,7 +3,12 @@
 ![animated](https://avatars.githubusercontent.com/u/44528087?s=400&u=9e51f1d96969229ae1a25f0d1680b06e5ad69e94&v=4)
 -->
 
-<h1 align="center">Hi 👋, I'm Biswasindhu Mandal <img align="center" padding="1px" src="https://artbindu.github.io/artbindu/favicon.ico" height="30px"></h1>
+<h1 align="center">Hi 👋, I'm 
+	<a href="https://artbindu.github.io/artbindu/index.html" target="_blank">
+	Biswasindhu Mandal 
+	<img align="center" padding="1px" src="https://artbindu.github.io/artbindu/favicon.ico" height="30px">
+	</a>
+</h1>
 <h3 align="center">A passionate Full Stack developer from 
 <a href="https://en.wikipedia.org/wiki/India"><img src="https://www.india.gov.in/sites/upload_files/npi/files/favicon_0.ico" width="30" height="20" alt="artbindu"/></a>
 </h3>
