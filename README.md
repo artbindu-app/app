@@ -62,10 +62,12 @@
 <table>
 	<tr>
 		<td rowspan="2" style="padding:0;margin:0;">
-        <!-- <a href="https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta">
+            <a href="https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta">
                 <img align="center" src="https://i.stack.imgur.com/D5Hwq.png" alt="artbindu"/>
-            </a> -->
-        <div><iframe src="https://artbindu.github.io/artbindu/badge.html" title="" height="280px" width="301px"></iframe></div>
+            </a>
+            <!-- <div>
+            <iframe src="https://artbindu.github.io/artbindu/badge.html" title="" height="280px" width="301px"></iframe>
+            </div> -->
 		</td>
 		<td colspan="4" style="padding:0;margin:0;">
              <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
