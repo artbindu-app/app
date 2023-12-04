@@ -5,4 +5,3 @@ package-lock.json
 .vscode
 .DS_Store
 js/*/data.js
-js/*/*.pdf
