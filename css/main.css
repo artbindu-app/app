@@ -5010,10 +5010,8 @@ Created using IcoMoon - icomoon.io
 
 /* Images Gallery Style*/
 .blog-article {
-  max-height: 200px !important;
-  /* padding: 10px 20px 30px 40px;
-  border-color: #000; */
-  /* box-shadow: inset 0 10px 0 0 lightGreen, inset -20px 0 0 0 lightGreen, inset 0 -30px 0 0 lightGreen, inset 40px 0 0 0 lightGreen; */
+  max-height: 180px !important;
+  padding: 5px 5px 5px 5px;
 }
 .gallery .cc-porfolio-image figure {
   position: relative;
