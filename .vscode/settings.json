@@ -16,7 +16,6 @@
         "*bootstrap.min.js": "*.js.map, *.min.js, *.d.ts",
         "bootstrap-datepicker.js":  "*.js.map, *.min.js, *.d.ts, *.js",
         "aos.js": "*.js.map, *.min.js, *.d.ts, *.js",
-        "index.js": "*.js.map, *.min.js, *.d.ts, *.js, *.pdf",
         "favicon_16.ico": "*.ico",
         "cc-bg-1.jpg": "*.jpg, *.svg, *.png, *.jpeg",
         "c_basic.png": "*.jpg, *.svg, *.png, *.jpeg",

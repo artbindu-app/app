@@ -46,7 +46,7 @@ $('a.smooth-scroll')
 
 
 function getAge(){
-  var birthDate= new Date('1993-05-01');
+  var birthDate= new Date();
    var  currentDate= new Date();
     var years = (currentDate.getFullYear() - birthDate.getFullYear());
     if (currentDate.getMonth() < birthDate.getMonth() || 
@@ -54,16 +54,4 @@ function getAge(){
         years--;
     }
     return years;
-}
-
-var data = {
-  header_name: "Biswasindhu Mandal",
-  header_info: "Full Stack Developer, OTT Front End Developer",
-  about: {
-    about_p1: "",
-    about_p2: ""
-  },
-  skills: {
-    
-  }
 }
