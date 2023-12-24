@@ -5295,6 +5295,11 @@ Created using IcoMoon - icomoon.io
 .cc-skype:hover i {
   color: #00AFF0; }
 
+.regex-icon {
+  background-color:#D3D0CF;
+  border-radius: 0.35rem!important
+}
+
 /* Credit Style */
 a.credit {
   color: inherit;
