@@ -5364,3 +5364,10 @@ a.credit {
 /* .section {
   background: #FFFFFF;
 } */
+
+.fit-hackerrank-cert {
+  /* width: 385px; 190px */
+  height: 190px;
+  object-fit: cover;
+  /* object-position: center;  */
+}
