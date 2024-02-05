@@ -5296,6 +5296,11 @@ Created using IcoMoon - icomoon.io
 .cc-skype:hover i {
   color: #00AFF0; }
 
+.cc-hackerRank:hover i {
+  color: #028c09;
+}
+/* color: #FAFCFC; white */
+
 .cc-github-bg {
   background-color: #f34f29; }
 
@@ -5310,6 +5315,11 @@ Created using IcoMoon - icomoon.io
 
 .cc-skype-bg {
   background-color: #00AFF0; }
+
+.cc-hackerRank-bg {
+  background-color: #028c09; 
+}
+
 
 .regex-icon {
   background-color:#D3D0CF;
