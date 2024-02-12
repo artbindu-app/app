@@ -5381,3 +5381,14 @@ a.credit {
   object-fit: cover;
   /* object-position: center;  */
 }
+
+/* Blog or Article Badges */
+.blog-badges {
+  font-size:20px !important;
+  color:#B60AF0;
+}
+.app-badges {
+  font-size:22px !important;
+  color:#B60AF0;
+  /* color:#06F7C4; */
+}
