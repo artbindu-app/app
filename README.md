@@ -10,7 +10,10 @@
 	</a>
 </h1>
 <h3 align="center">A passionate Full Stack developer from 
-<a href="https://en.wikipedia.org/wiki/India"><img src="https://www.india.gov.in/sites/upload_files/npi/files/favicon_0.ico" width="30" height="20" alt="artbindu"/></a>
+<a href="https://knowindia.india.gov.in/profile/" target="_blank">
+	<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6TH3MXo-zzVneKFhf0bTdzzLuz_fWp6Ls4F6Z43WP1o7KnFuk3y2oYc3PcKZ9D5ybFksoxL84ZMfiOycWdOJ9DiwTlayyHqriSHba3oand3sqRsqtItMAdcwfrctHVn_p_xyqUbDx9s/s1600/India_flag_with_emblem.gif" width="45" alt="INDIA">
+<!-- 	<img src="https://www.india.gov.in/sites/upload_files/npi/files/favicon_0.ico" width="30" height="20" alt="artbindu"/> -->
+</a>
 </h3>
 
 <!-- <img alt="File:Flag of India.svg" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png?20111003033457" decoding="async" width="30" height="20" srcset="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png?20111003033457 1.5x, https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1599px-Flag_of_India.svg.png?20111003033457 2x" data-file-width="1350" data-file-height="900"> -->
