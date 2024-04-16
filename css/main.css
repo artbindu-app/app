@@ -1260,7 +1260,8 @@
 
 .btn-primary {
   background-color: #378C3F;
-  color: #FFFFFF; }
+  color: #FFFFFF; 
+}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
@@ -5319,6 +5320,40 @@ Created using IcoMoon - icomoon.io
 .cc-hackerRank-bg {
   background-color: #028c09; 
 }
+
+.hackerRank-image-button {
+  position: relative;
+  border: none;
+  background-color: #028c09 !important; 
+  background: url('https://artbindu.github.io/artbindu/images/icons/hackerrank_wh.svg');
+  background-size: 35px 35px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hackerRank-image-button:hover {
+  color: #028c09;
+  background-color: #ffffff !important; 
+  background-image: url('https://artbindu.github.io/artbindu/images/icons/hackerrank.svg'); 
+}
+
+.w3profile-image-button {
+  position: relative;
+  border: none;
+  background-color: #028c09 !important; 
+  background: url('https://artbindu.github.io/artbindu/images/icons/w3schools_wh.svg');
+  background-size: 35px 35px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.w3profile-image-button:hover {
+  color: #028c09;
+  background-color: #ffffff !important; 
+  background-image: url('https://artbindu.github.io/artbindu/images/icons/w3schools_gr.svg'); 
+}
+
 
 
 .regex-icon {
