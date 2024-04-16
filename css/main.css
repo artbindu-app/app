@@ -5357,7 +5357,7 @@ Created using IcoMoon - icomoon.io
   position: relative;
   border: none;
   background: url('https://artbindu.github.io/artbindu/images/icons/w3schools.svg');
-  background-size: 35px 35px;
+  background-size: 2em;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -5370,7 +5370,7 @@ Created using IcoMoon - icomoon.io
   position: relative;
   border: none;
   background: url('https://artbindu.github.io/artbindu/images/icons/hackerrank.svg');
-  background-size: 45px 45px;
+  background-size: 2.8em;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -5378,10 +5378,24 @@ Created using IcoMoon - icomoon.io
 .hackerRank-shadow-image-button:hover {
   background-image: url('https://artbindu.github.io/artbindu/images/icons/hackerrank_gr.svg'); 
 }
-
+/* 
 .cc-shadow-hackerRank, .cc-shadow-w3profile {
-  padding: .5rem .75rem;
-}
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .5rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    border-radius: .25rem;
+    transition: all .15s ease-in-out;
+} */
 
 /* hackerRank & w3profile B5 button special case :: End */
 
