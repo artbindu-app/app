@@ -5326,7 +5326,7 @@ Created using IcoMoon - icomoon.io
   position: relative;
   border: none;
   background-color: #028c09 !important; 
-  background: url('https://artbindu.github.io/artbindu/images/icons/hackerrank_wh.svg');
+  background: url('http://192.168.29.67:12346/images/icons/hackerrank-icon_w.svg');
   background-size: 45px 45px;
   background-repeat: no-repeat;
   background-position: center;
@@ -5334,7 +5334,7 @@ Created using IcoMoon - icomoon.io
 
 .hackerRank-image-button:hover {
   background-color: #ffffff !important; 
-  background-image: url('https://artbindu.github.io/artbindu/images/icons/hackerrank_gr.svg'); 
+  background-image: url('http://192.168.29.67:12346/images/icons/hackerrank-icon_g.svg'); 
 }
 
 .w3profile-image-button {
@@ -5369,14 +5369,14 @@ Created using IcoMoon - icomoon.io
 .hackerRank-shadow-image-button {
   position: relative;
   border: none;
-  background: url('https://artbindu.github.io/artbindu/images/icons/hackerrank.svg');
+  background: url('http://192.168.29.67:12346/images/icons/hackerrank-icon_w.svg');
   background-size: 2.8em;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .hackerRank-shadow-image-button:hover {
-  background-image: url('https://artbindu.github.io/artbindu/images/icons/hackerrank_gr.svg'); 
+  background-image: url('http://192.168.29.67:12346/images/icons/hackerrank-icon_g.svg'); 
 }
 /* 
 .cc-shadow-hackerRank, .cc-shadow-w3profile {
@@ -5396,6 +5396,18 @@ Created using IcoMoon - icomoon.io
     border-radius: .25rem;
     transition: all .15s ease-in-out;
 } */
+
+.hackerrank-icon {
+  position: relative;
+  border: none;
+  background: url('http://192.168.29.67:12346/images/icons/hackerrank-icon.svg');
+  background-size: 2em;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hackerrank-icon:hover {
+  background-image: url('http://192.168.29.67:12346/images/icons/hackerrank-icon_g.svg'); 
+}
 
 /* hackerRank & w3profile B5 button special case :: End */
 
