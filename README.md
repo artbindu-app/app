@@ -8,10 +8,12 @@
 	Biswasindhu Mandal 
 	<img align="center" padding="1px" src="https://artbindu.github.io/artbindu/favicon.ico" height="30px">
 	</a>
+    <a href="https://stackexchange.com/users/15032371"><img src="https://stackexchange.com/users/flair/15032371.png" width="180" height="50" alt="" title="StackOverflow Profile"></a>
 </h1>
 <h3 align="center">A passionate Full Stack developer from 
 <a href="https://knowindia.india.gov.in/profile/" target="_blank">
 	<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6TH3MXo-zzVneKFhf0bTdzzLuz_fWp6Ls4F6Z43WP1o7KnFuk3y2oYc3PcKZ9D5ybFksoxL84ZMfiOycWdOJ9DiwTlayyHqriSHba3oand3sqRsqtItMAdcwfrctHVn_p_xyqUbDx9s/s1600/India_flag_with_emblem.gif" width="45" alt="INDIA">
+
 <!-- 	<img src="https://www.india.gov.in/sites/upload_files/npi/files/favicon_0.ico" width="30" height="20" alt="artbindu"/> -->
 </a>
 </h3>
