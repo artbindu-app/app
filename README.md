@@ -8,7 +8,7 @@
 	Biswasindhu Mandal 
 	<img align="center" padding="1px" src="https://artbindu.github.io/artbindu/favicon.ico" height="30px">
 	</a>
-    <a href="https://stackexchange.com/users/15032371" target="_blank"><img src="https://stackexchange.com/users/flair/15032371.png?theme=clean" width="180" height="50" alt="" title="StackOverflow Profile"></a>
+    <a href="https://stackoverflow.com/users/10850045/art-bindu" target="_blank"><img src="https://stackoverflow.com/users/flair/10850045.png?theme=clean" width="160" height="50" alt="" title="StackOverflow Profile"></a>
 </h1>
 <h3 align="center">A passionate Full Stack developer from 
 <a href="https://knowindia.india.gov.in/profile/" target="_blank">
@@ -24,7 +24,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=15&column=7" alt="artbindu"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=8&column=8" alt="artbindu"/>
 </a></p>
 
 <!-- <ul>
