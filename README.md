@@ -8,7 +8,7 @@
 	Biswasindhu Mandal 
 	<img align="center" padding="1px" src="https://artbindu.github.io/artbindu/favicon.ico" height="30px">
 	</a>
-    <a href="https://stackexchange.com/users/15032371"><img src="https://stackexchange.com/users/flair/15032371.png" width="180" height="50" alt="" title="StackOverflow Profile"></a>
+    <a href="https://stackexchange.com/users/15032371" target="_blank"><img src="https://stackexchange.com/users/flair/15032371.png?theme=clean" width="180" height="50" alt="" title="StackOverflow Profile"></a>
 </h1>
 <h3 align="center">A passionate Full Stack developer from 
 <a href="https://knowindia.india.gov.in/profile/" target="_blank">
