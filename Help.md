@@ -69,3 +69,13 @@ Icon Details:
 
 
 [MarkDown Guide](https://www.markdownguide.org/extended-syntax/)
+
+
+
+
+<table>
+<tr><td colspan="4" style="padding:0;margin:0;">
+<a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
+<img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" alt="artbindu"/>
+</a></td></tr>
+</table>

@@ -3471,6 +3471,9 @@ Created using IcoMoon - icomoon.io
   .card[data-background-color="green"] {
     background-color: #18ce0f; }
 
+.cb-ignore-minHight {
+  min-height: 0px !important;
+}
 .card-signup {
   max-width: 350px;
   margin: 0 auto; }
