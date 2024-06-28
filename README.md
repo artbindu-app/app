@@ -401,3 +401,5 @@
 - [ ] [primePy](https://github.com/janaindrajit/primePy/issues/8)
 - [x] [bitmovinPlayer](https://developer.bitmovin.com/playback/docs/release-notes-web#81200)
 - [x] [videojs](https://github.com/videojs/video.js/issues/8306)
+- [x] [Oracle SQL](https://github.com/oracle/node-oracledb/issues/1681)
+
