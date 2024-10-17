@@ -2257,7 +2257,8 @@ h5, .h5 {
 h6, .h6 {
   font-size: 1em;
   font-weight: 700;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+}
 
 p {
   line-height: 1.61em; }
@@ -5472,4 +5473,8 @@ a.credit {
   font-size:22px !important;
   color:#B60AF0;
   /* color:#06F7C4; */
+}
+
+.ignoreTransform {
+  text-transform: none !important;
 }
