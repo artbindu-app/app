@@ -1,0 +1,9 @@
+version: "2.0.0"
+services:
+  app:
+    image: artbindu:2.0.0
+    build: .
+    container_name: artbindu
+    ports:
+      - 12345:12345
+    restart: unless-stopped
