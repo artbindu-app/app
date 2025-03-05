@@ -90,6 +90,7 @@
             </a>
         </td>
         <td align="center" style="padding:0;margin:0;">
+        <!-- https://leetcode-badge-showcase.vercel.app/api?username=artbindu -->
 	        <a href="https://leetcode.com/artbindu/">
                   <img align="center" width="35px" style="background-color:black;padding:10px;"
                       src="https://cdn.simpleicons.org/leetcode"/>
