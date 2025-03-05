@@ -90,8 +90,10 @@ function stackOverflowReputation() {
   const get_api = `https://stackoverflow.com/users/flair/10850045.json`;
   const xhr = new XMLHttpRequest();
   xhr.open("GET", get_api, true);
-  xhr.withCredentials = false; // Include cookies
+  // xhr.withCredentials = false; // Include cookies
   // xhr.setRequestHeader("Authorization", "Bearer YOUR_ACCESS_TOKEN");
+  xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
+  xhr.setRequestHeader('Access-Control-Allow-Origin', 'https://artbindu.github.io');
   xhr.onload = (e) => {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
@@ -111,7 +113,7 @@ function mediumBlogCounts() {
   const get_api = `https://medium.com/feed/@artbindu`;
   const xhr = new XMLHttpRequest();
   xhr.open("GET", get_api, true);
-  xhr.withCredentials = false; // Include cookies
+  // xhr.withCredentials = false; // Include cookies
   // xhr.setRequestHeader("Authorization", "Bearer YOUR_ACCESS_TOKEN");
   xhr.onload = (e) => {
     if (xhr.readyState === 4) {
