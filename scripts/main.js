@@ -90,8 +90,12 @@ function stackOverflowReputation() {
   const get_api = `https://stackoverflow.com/users/flair/10850045.json`;
   const xhr = new XMLHttpRequest();
   xhr.open("GET", get_api, true);
-  xhr.withCredentials = false; 
-
+  // xhr.setRequestHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+	// xhr.setRequestHeader(
+	// 			'Access-Control-Allow-Headers',
+	// 			'Origin, X-Requested-With, Content-Type, Accept, Authorization, Access-Control-Allow-Credentials'
+	// 		);
+	xhr.setRequestHeader('access-control-allow-origin', 'https://artbindu.github.io');
   xhr.onload = (e) => {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
@@ -110,7 +114,7 @@ function stackOverflowReputation() {
 function mediumBlogCounts() {
   const get_api = `https://medium.com/feed/@artbindu`;
   const xhr = new XMLHttpRequest();
-  xhr.withCredentials = false; 
+  xhr.setRequestHeader('access-control-allow-origin', 'https://artbindu.github.io');
 
   xhr.open("GET", get_api, true);
   xhr.onload = (e) => {
