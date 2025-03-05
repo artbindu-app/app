@@ -80,3 +80,29 @@ function getOS() {
   return os;
 }
 const os_name = getOS();
+const reputation = stackOverflowReputation();
+
+function stackOverflowReputation() {
+  setTimeout(getRequestCall, 2000)
+}
+function getRequestCall() {
+  const get_api = `https://stackoverflow.com/users/flair/10850045.json`;
+  const xhr = new XMLHttpRequest();
+  xhr.open("GET", get_api, true);
+  xhr.onload = (e) => {
+    if (xhr.readyState === 4) {
+      if (xhr.status === 200) {
+        data = JSON.parse(xhr.response);
+        console.log(data.reputation);
+        document.getElementById("stackoverflowReputation").innerHTML = data.reputation;
+      } else {
+        console.error(xhr.statusText);
+      }
+    }
+  };
+  xhr.onerror = (e) => {
+    console.error(xhr.statusText);
+  };
+  xhr.send(null);
+}
+
