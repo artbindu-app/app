@@ -115,6 +115,8 @@ function mediumBlogCounts() {
   xhr.open("GET", get_api, true);
   // xhr.withCredentials = false; // Include cookies
   // xhr.setRequestHeader("Authorization", "Bearer YOUR_ACCESS_TOKEN");
+  xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
+  xhr.setRequestHeader('Access-Control-Allow-Origin', 'https://artbindu.github.io');
   xhr.onload = (e) => {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
