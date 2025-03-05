@@ -60,6 +60,13 @@
 		    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artbindu&&show_icons=true&theme=dark#gh-dark-mode-only" alt="artbindu"/>
 		</th>
     </tr>
+   <tr>
+		<th style="padding:0;margin:0;">
+			<a href="https://www.hackerrank.com/artbindu">
+		    <img align="center" src="https://hackerrank-badges.vercel.app/artbindu" alt="artbindu"/>
+			</a>
+		</th>
+    </tr>
 </table>
 
 ## Connect With Me
@@ -80,12 +87,12 @@
 		</td>
 	</tr>
 	<tr>
-	    <td align="center" style="padding:0;margin:0;">
+<!-- 	    <td align="center" style="padding:0;margin:0;">
 	        <a href="https://www.hackerrank.com/artbindu">
                 <img align="center" width="35px" style="background-color:black;padding:10px;"
                   src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/>
             </a>
-        </td>
+        </td> -->
         <td align="center" style="padding:0;margin:0;">
 	        <a href="https://www.hackerearth.com/@artbindu">
                   <img align="center" width="35px" style="background-color:black;padding:10px;"
