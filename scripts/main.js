@@ -80,12 +80,13 @@ function getOS() {
   return os;
 }
 const os_name = getOS();
-const reputation = stackOverflowReputation();
+const reputation = myAPICalls();
 
-function stackOverflowReputation() {
-  setTimeout(getRequestCall, 2000)
+function myAPICalls() {
+  setTimeout(stackOverflowReputation, 2000);
+  setTimeout(mediumBlogCounts, 3000);
 }
-function getRequestCall() {
+function stackOverflowReputation() {
   const get_api = `https://stackoverflow.com/users/flair/10850045.json`;
   const xhr = new XMLHttpRequest();
   xhr.open("GET", get_api, true);
@@ -95,6 +96,27 @@ function getRequestCall() {
         data = JSON.parse(xhr.response);
         console.log(data.reputation);
         document.getElementById("stackoverflowReputation").innerHTML = data.reputation;
+      } else {
+        console.error(xhr.statusText);
+      }
+    }
+  };
+  xhr.onerror = (e) => {
+    console.error(xhr.statusText);
+  };
+  xhr.send(null);
+}
+function mediumBlogCounts() {
+  const get_api = `https://medium.com/feed/@artbindu`;
+  const xhr = new XMLHttpRequest();
+  xhr.open("GET", get_api, true);
+  xhr.onload = (e) => {
+    if (xhr.readyState === 4) {
+      if (xhr.status === 200) {
+        parser = new DOMParser();
+        xmlDoc = parser.parseFromString(xhr.response, "text/xml");
+        console.log(xmlDoc.getElementsByTagName("item").length);
+        document.getElementById("mediumBlogCounts").innerHTML = xmlDoc.getElementsByTagName("item").length;
       } else {
         console.error(xhr.statusText);
       }
