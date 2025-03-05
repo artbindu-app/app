@@ -90,6 +90,8 @@ function stackOverflowReputation() {
   const get_api = `https://stackoverflow.com/users/flair/10850045.json`;
   const xhr = new XMLHttpRequest();
   xhr.open("GET", get_api, true);
+  xhr.withCredentials = false; 
+
   xhr.onload = (e) => {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
@@ -108,6 +110,8 @@ function stackOverflowReputation() {
 function mediumBlogCounts() {
   const get_api = `https://medium.com/feed/@artbindu`;
   const xhr = new XMLHttpRequest();
+  xhr.withCredentials = false; 
+
   xhr.open("GET", get_api, true);
   xhr.onload = (e) => {
     if (xhr.readyState === 4) {
