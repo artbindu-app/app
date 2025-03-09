@@ -44,7 +44,7 @@
   <li>⚡ Fun fact **Fun Fact**</li>
 </ul>  -->
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse;background-color:rgb(164, 167, 169);">
     <!-- <caption><h2>Git Status</h2></caption> -->
     <tr>
 		<th style="padding:0;margin:0;">
