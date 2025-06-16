@@ -6,3 +6,4 @@ package-lock.json
 lib/
 ./scripts/main.js
 ./scripts/lib/config.js
+Help.md
