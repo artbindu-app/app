@@ -1,5 +1,5 @@
 {
-  "name": "artbindu",
+  "name": "app",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "node": "lts/iron"
   },
   "engines": {
-    "node": ">= 14.17.0 <=16.16.0"
+    "node": "lts/iron"
   },
   "author": "Biswasindhu Mandal",
   "license": "ISC",
