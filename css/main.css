@@ -5330,7 +5330,7 @@ Created using IcoMoon - icomoon.io
   position: relative;
   border: none;
   background-color: #028c09 !important; 
-  background: url('https://artbindu.github.io/artbindu/images/icons/hackerrank_wh.svg');
+  background: url('https://artbindu-app.github.io/app/images/icons/hackerrank_wh.svg');
   background-size: 45px 45px;
   background-repeat: no-repeat;
   background-position: center;
@@ -5338,14 +5338,14 @@ Created using IcoMoon - icomoon.io
 
 .hackerRank-image-button:hover {
   background-color: #ffffff !important; 
-  background-image: url('https://artbindu.github.io/artbindu/images/icons/hackerrank_gr.svg'); 
+  background-image: url('https://artbindu-app.github.io/app/images/icons/hackerrank_gr.svg'); 
 }
 
 .w3profile-image-button {
   position: relative;
   border: none;
   background-color: #028c09 !important; 
-  background: url('https://artbindu.github.io/artbindu/images/icons/w3schools_wh.svg');
+  background: url('https://artbindu-app.github.io/app/images/icons/w3schools_wh.svg');
   background-size: 35px 35px;
   background-repeat: no-repeat;
   background-position: center;
@@ -5353,34 +5353,34 @@ Created using IcoMoon - icomoon.io
 
 .w3profile-image-button:hover {
   background-color: #ffffff !important; 
-  background-image: url('https://artbindu.github.io/artbindu/images/icons/w3schools_gr.svg'); 
+  background-image: url('https://artbindu-app.github.io/app/images/icons/w3schools_gr.svg'); 
 }
 
 
 .w3profile-shadow-image-button {
   position: relative;
   border: none;
-  background: url('https://artbindu.github.io/artbindu/images/icons/w3schools.svg');
+  background: url('https://artbindu-app.github.io/app/images/icons/w3schools.svg');
   background-size: 2em;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .w3profile-shadow-image-button:hover {
-  background-image: url('https://artbindu.github.io/artbindu/images/icons/w3schools_gr.svg'); 
+  background-image: url('https://artbindu-app.github.io/app/images/icons/w3schools_gr.svg'); 
 }
 
 .hackerRank-shadow-image-button {
   position: relative;
   border: none;
-  background: url('https://artbindu.github.io/artbindu/images/icons/hackerrank.svg');
+  background: url('https://artbindu-app.github.io/app/images/icons/hackerrank.svg');
   background-size: 2.8em;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .hackerRank-shadow-image-button:hover {
-  background-image: url('https://artbindu.github.io/artbindu/images/icons/hackerrank_gr.svg'); 
+  background-image: url('https://artbindu-app.github.io/app/images/icons/hackerrank_gr.svg'); 
 }
 /* 
 .cc-shadow-hackerRank, .cc-shadow-w3profile {
