@@ -21,6 +21,6 @@
         "Jadavpur_University_Logo.png": "*.jpg, *.svg, *.png, *.jpeg",
         "3utools.png": "*.jpg, *.svg, *.png, *.jpeg",
         "mediakind.svg":  "*.jpg, *.svg, *.png, *.jpeg",
-        "*.yaml": ".docker*"
+        "compose.yaml": ".docker*"
     }
 }
