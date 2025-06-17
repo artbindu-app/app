@@ -4,9 +4,9 @@
 -->
 
 <h1 align="center">Hi 👋, I'm 
-	<a href="https://artbindu.github.io/artbindu/index.html" target="_blank">
+	<a href="https://artbindu-app.github.io/whoami/index.html" target="_blank">
 	Biswasindhu Mandal 
-	<img align="center" padding="1px" src="https://artbindu.github.io/artbindu/favicon.ico" height="30px">
+	<img align="center" padding="1px" src="https://artbindu-app.github.io/whoami/favicon.ico" height="30px">
 	</a>
 </h1>
 <h3 align="center">A passionate Full Stack developer from 
@@ -37,7 +37,7 @@
       </a></li>
   <li>💬 Ask me about **Ask me about**</li>
   <li>📫 How to reach me: <strong>sindhu.online.24x7@gmail.com</strong></li>
-  <li>📄 Know about my experiences <a href="https://artbindu.github.io/artbindu/index.html">
+  <li>📄 Know about my experiences <a href="https://artbindu-app.github.io/whoami/index.html">
           <img align="end" width="20px" style="background-color:black; padding:0px;"
               src="https://cdn.simpleicons.org/readthedocs/green"/>
       </a></li>
@@ -326,7 +326,7 @@
       </a>
       <a href="https://www.charlesproxy.com/documentation/getting-started/">
           <img align="left" alt="Postman" width="35px" style="background-color:black; padding:5px;"
-              src="https://artbindu.github.io/artbindu/images/charles_icon.svg"/>
+              src="https://artbindu-app.github.io/whoami/images/charles_icon.svg"/>
       </a>
       <a href="https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/">
           <img align="left" alt="Swagger" width="35px" style="background-color:black; padding:5px;"
@@ -364,7 +364,7 @@
 
 <br/><br/></hr>
 
-# <a href="https://artbindu.github.io/artbindu/index.html"><img align="left" src="https://artbindu.github.io/artbindu/favicon.ico" height="40px">&nbsp;&nbsp;Curriculum Vitae</a>
+# <a href="https://artbindu-app.github.io/whoami/index.html"><img align="left" src="https://artbindu-app.github.io/whoami/favicon.ico" height="40px">&nbsp;&nbsp;Curriculum Vitae</a>
 </hr>
 
 <!-- ## My Blogs:
