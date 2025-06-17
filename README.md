@@ -1,30 +1,31 @@
-
 <!-- GitHub Profile Picture
 ![animated](https://avatars.githubusercontent.com/u/44528087?s=400&u=9e51f1d96969229ae1a25f0d1680b06e5ad69e94&v=4)
 -->
 
 <h1 align="center">Hi 👋, I'm 
 	<a href="https://artbindu-app.github.io/whoami/index.html" target="_blank">
-	Biswasindhu Mandal 
-	<img align="center" padding="1px" src="https://artbindu-app.github.io/whoami/favicon.ico" height="30px">
+        Biswasindhu Mandal 
+	    <img align="center" padding="1px" src="https://artbindu-app.github.io/whoami/favicon.ico" height="30px">
 	</a>
 </h1>
 <h3 align="center">A passionate Full Stack developer from 
-<a href="https://knowindia.india.gov.in/profile/" target="_blank">
-	<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6TH3MXo-zzVneKFhf0bTdzzLuz_fWp6Ls4F6Z43WP1o7KnFuk3y2oYc3PcKZ9D5ybFksoxL84ZMfiOycWdOJ9DiwTlayyHqriSHba3oand3sqRsqtItMAdcwfrctHVn_p_xyqUbDx9s/s1600/India_flag_with_emblem.gif" width="45" alt="INDIA">
-
-<!-- 	<img src="https://www.india.gov.in/sites/upload_files/npi/files/favicon_0.ico" width="30" height="20" alt="artbindu"/> -->
-</a>
+    <a href="https://knowindia.india.gov.in/profile/" target="_blank">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6TH3MXo-zzVneKFhf0bTdzzLuz_fWp6Ls4F6Z43WP1o7KnFuk3y2oYc3PcKZ9D5ybFksoxL84ZMfiOycWdOJ9DiwTlayyHqriSHba3oand3sqRsqtItMAdcwfrctHVn_p_xyqUbDx9s/s1600/India_flag_with_emblem.gif" width="45" alt="INDIA">
+        <!-- <img src="https://www.india.gov.in/sites/upload_files/npi/files/favicon_0.ico" width="30" height="20" alt="artbindu"/> -->
+    </a>
 </h3>
 
 <!-- <img alt="File:Flag of India.svg" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png?20111003033457" decoding="async" width="30" height="20" srcset="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png?20111003033457 1.5x, https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1599px-Flag_of_India.svg.png?20111003033457 2x" data-file-width="1350" data-file-height="900"> -->
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=1&column=8" alt="artbindu"/>
-</a></p>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=1&column=8" alt="artbindu"/>
+    </a>
+</p>
 
 <!-- <ul>
   <li>🔭 I’m currently working on [MediaKind WMC](https://mediakind.wmc)</li>
@@ -51,7 +52,7 @@
 		    <img align="center" src="https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="artbindu"/>
 		</th>
         <th rowspan="2" style="padding:0;margin:0;">
-         <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/> -->
+            <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/> -->
 		    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/>
 		</th>
 	</tr>
@@ -63,43 +64,41 @@
    <tr>
 		<th style="padding:0;margin:0;">
 			<a href="https://www.hackerrank.com/artbindu">
-		    <img align="center" src="https://hackerrank-badges.vercel.app/artbindu" alt="artbindu"/>
+		        <img align="center" src="https://hackerrank-badges.vercel.app/artbindu" alt="artbindu"/>
 			</a>
 		</th>
 	   <th style="padding:0;margin:0;">
 			<a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-		    <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045"/>
+		        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045"/>
 			</a>
 		</th>
     </tr>
 </table>
 
 ## Connect With Me
+
 <table>
 	<tr>
 		<td colspan="3" style="padding:0;margin:0;">
             <a href="https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta">
                 <img align="center" src="https://i.stack.imgur.com/D5Hwq.png" alt="artbindu"/>
             </a>
+        </td>
 	</tr>
 	<tr>
         <td align="center" style="padding:0;margin:0;">
 	        <a href="https://www.hackerearth.com/@artbindu">
-                  <img align="center" width="35px" style="background-color:black;padding:10px;"
-                      src="https://cdn.simpleicons.org/hackerearth/lblue"/>
+                <img align="center" width="35px" style="background-color:black;padding:10px;" src="https://cdn.simpleicons.org/hackerearth/lblue"/>
             </a>
         </td>
-        <td align="center" style="padding:0;margin:0;">
-        <!-- https://leetcode-badge-showcase.vercel.app/api?username=artbindu -->
+        <td align="center" style="padding:0;margin:0;"> <!-- https://leetcode-badge-showcase.vercel.app/api?username=artbindu -->
 	        <a href="https://leetcode.com/artbindu/">
-                  <img align="center" width="35px" style="background-color:black;padding:10px;"
-                      src="https://cdn.simpleicons.org/leetcode"/>
+                <img align="center" width="35px" style="background-color:black;padding:10px;" src="https://cdn.simpleicons.org/leetcode"/>
             </a>
         </td>
         <td align="center" style="padding:0;margin:0;">
 	        <a href="https://bitbucket.org/artbindu/">
-                  <img align="center" width="35px" style="background-color:black;padding:10px;"
-                      src="https://cdn.simpleicons.org/bitbucket/lblue"/>
+                <img align="center" width="35px" style="background-color:black;padding:10px;" src="https://cdn.simpleicons.org/bitbucket/lblue"/>
             </a>
         </td>
 	</tr>
@@ -361,30 +360,31 @@
 ## Automation
 ## Other -->
 
-
 <br/><br/></hr>
 
 # <a href="https://artbindu-app.github.io/whoami/index.html"><img align="left" src="https://artbindu-app.github.io/whoami/favicon.ico" height="40px">&nbsp;&nbsp;Curriculum Vitae</a>
+
 </hr>
 
 <!-- ## My Blogs:
 
   [![artbindu Medium story - IV](https://medium-story.vercel.app/api?username=@artbindu&index=0)](https://medium-story.vercel.app/api?username=@artbindu&index=0)
-  
+
   [![artbindu Medium story - III](https://medium-story.vercel.app/api?username=@artbindu&index=1)](https://medium-story.vercel.app/api?username=@artbindu&index=1)
 
   [![artbindu Medium story - II](https://medium-story.vercel.app/api?username=@artbindu&index=2)](https://medium-story.vercel.app/api?username=@artbindu&index=2)
 
   [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=3)](https://medium-story.vercel.app/api?username=@artbindu&index=3) -->
 
-## My Website:
+## My Website
 
-- [x] [Round Off Decimal Number](https://artbindu.github.io/roundoff_decimal/)
-- [x] [Essential Command](https://artbindu.github.io/essential_command/)
-- [x] [Regularly used Basic Converter](https://artbindu.github.io/roundoff_decimal/converter.html)
-- [x] [Node.js Versions](https://artbindu.github.io/roundoff_decimal/node-version.html)
+- [x] [Round Off Decimal Number](https://artbindu-app.github.io/roundoff_number/index.html)
+- [x] [Essential Command](https://artbindu-app.github.io/essential_command/index.html)
+- [x] [Regularly used Basic Converter](https://artbindu-app.github.io/roundoff_number/converter.html)
+- [x] [Node.js Versions](https://artbindu-app.github.io/roundoff_number/node-version.html)
 
 ## Generated Issue & Tracking
+
 - [ ] [grunt-http](https://github.com/johngeorgewright/grunt-http/issues/59)
 - [ ] [grunt-mocha-istanbul](https://github.com/pocesar/grunt-mocha-istanbul/issues/75)
 - [ ] [istanbuljs/nyc](https://github.com/istanbuljs/nyc/issues/1491)
@@ -394,4 +394,3 @@
 - [x] [bitmovinPlayer](https://developer.bitmovin.com/playback/docs/release-notes-web#81200)
 - [x] [videojs](https://github.com/videojs/video.js/issues/8306)
 - [x] [Oracle SQL](https://github.com/oracle/node-oracledb/issues/1681)
-
