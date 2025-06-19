@@ -8,10 +8,10 @@
     "nodemon": "nodemon -x \"npm run start\""
   },
   "node-version": {
-    "node": "16.15.1"
+    "node": "20.19.2"
   },
   "engines": {
-    "node": ">= 14.17.0 <=16.16.0"
+    "node": "lts/iron"
   },
   "author": "Biswasindhu Mandal",
   "license": "ISC",
